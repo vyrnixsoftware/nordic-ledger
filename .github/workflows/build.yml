@@ -49,4 +49,23 @@ jobs:
             gh release create "$tag" --title "$title" --notes-file "$out/description.txt" \
               "$out/video.mp4" "$out/thumb_A.jpg" "$out/thumb_B.jpg" "$out/metadata.json" "$out/description.txt" "$out/subtitles.srt" "$out/scenes.json"
             echo "released $tag"
+            built="$built $id"
           done
+          echo "BUILT=$built" >> $GITHUB_ENV
+      - name: Publish to builds branch (raw.githubusercontent.com is CORS-enabled; used for browser upload to YouTube)
+        if: env.BUILT != ''
+        run: |
+          set -e
+          git config user.name "nordic-ledger-bot"; git config user.email "bot@users.noreply.github.com"
+          rm -rf /tmp/builds && mkdir -p /tmp/builds && cd /tmp/builds
+          git init -q -b builds
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git fetch -q origin builds && git checkout -q builds || true
+          for id in $BUILT; do
+            mkdir -p "$id"; cp "$GITHUB_WORKSPACE/out/$id/"{video.mp4,thumb_A.jpg,thumb_B.jpg,metadata.json,description.txt,subtitles.srt,scenes.json} "$id/"
+          done
+          # keep only the newest 12 builds on this branch (older ones stay available as releases)
+          ls -d */ 2>/dev/null | sort | head -n -12 | xargs -r rm -rf
+          ls -d */ | sed 's#/##' > INDEX.txt
+          git add -A && git commit -q -m "builds: $BUILT" || echo "nothing to commit"
+          git push -q --force origin builds
