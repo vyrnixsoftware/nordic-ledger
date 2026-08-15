@@ -1,0 +1,23 @@
+channel:
+  name: "The Nordic Ledger"
+  tagline: "How Europe's companies rise, fall and get caught."
+  language: en
+  cadence_per_week: 2
+  publish_days: [Tue, Fri]
+  publish_time_utc: "15:00"
+voice:
+  provider: auto          # elevenlabs (if ELEVENLABS_API_KEY) | piper | edge | auto
+  elevenlabs_voice_id: "onwK4e9ZLuTAKqWW03F9"   # "Daniel" – calm British male, non-celebrity stock voice
+  piper_model: "en-us-ryan-high"   # bundled in assets/voices; en-gb-alan-low also bundled
+  speed: 0.96
+style:
+  palette: {bg: "#0E1116", fg: "#E8E6E1", accent: "#C8A24A", accent2: "#3C7DD9", danger: "#D0503C"}
+  font_head: "assets/fonts/Fraunces-SemiBold.ttf"
+  font_body: "assets/fonts/Inter-Regular.ttf"
+  resolution: [1920, 1080]
+  fps: 30
+compliance:
+  ai_disclosure_in_description: true
+  synthetic_media_label: false     # set true per-video if realistic generated footage of real events/people
+  max_uploads_per_week: 3
+  require_sources: true
