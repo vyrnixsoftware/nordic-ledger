@@ -1,0 +1,52 @@
+name: build-videos
+on:
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "Script file name (e.g. 001-northvolt.md) or 'all-missing'"
+        default: "all-missing"
+      force:
+        description: "Rebuild even if release exists (true/false)"
+        default: "false"
+  schedule:
+    - cron: "0 3 * * 1,4"   # Mon+Thu 03:00 UTC, ahead of Tue/Fri publishing
+permissions:
+  contents: write
+concurrency:
+  group: build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: System deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core >/dev/null
+          python3 -m pip install -q pyyaml pillow numpy
+      - name: Assets (piper, voice, fonts, coastlines)
+        run: bash bootstrap-assets.sh
+      - name: Build
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SCRIPT: ${{ github.event.inputs.script || 'all-missing' }}
+          FORCE: ${{ github.event.inputs.force || 'false' }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          set -e
+          if [ "$SCRIPT" = "all-missing" ]; then list=$(ls scripts/*.md); else list="scripts/$SCRIPT"; fi
+          for f in $list; do
+            id=$(basename "$f" .md)          # e.g. 001-northvolt
+            tag="v$id"
+            if [ "$FORCE" != "true" ] && gh release view "$tag" >/dev/null 2>&1; then echo "skip $tag (exists)"; continue; fi
+            echo "== building $f"
+            python3 pipeline/run.py "$f" || { echo "build failed for $f"; continue; }
+            out="out/$id"
+            title=$(python3 -c "import json;print(json.load(open('$out/metadata.json'))['title'])")
+            gh release delete "$tag" -y --cleanup-tag 2>/dev/null || true
+            gh release create "$tag" --title "$title" --notes-file "$out/description.txt" \
+              "$out/video.mp4" "$out/thumb_A.jpg" "$out/thumb_B.jpg" "$out/metadata.json" "$out/description.txt" "$out/subtitles.srt" "$out/scenes.json"
+            echo "released $tag"
+          done
