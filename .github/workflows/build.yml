@@ -53,19 +53,26 @@ jobs:
           done
           echo "BUILT=$built" >> $GITHUB_ENV
       - name: Publish to builds branch (raw.githubusercontent.com is CORS-enabled; used for browser upload to YouTube)
-        if: env.BUILT != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -e
-          git config user.name "nordic-ledger-bot"; git config user.email "bot@users.noreply.github.com"
+          git config --global user.name "nordic-ledger-bot"; git config --global user.email "bot@users.noreply.github.com"
           rm -rf /tmp/builds && mkdir -p /tmp/builds && cd /tmp/builds
           git init -q -b builds
           git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
-          git fetch -q origin builds && git checkout -q builds || true
-          for id in $BUILT; do
-            mkdir -p "$id"; cp "$GITHUB_WORKSPACE/out/$id/"{video.mp4,thumb_A.jpg,thumb_B.jpg,metadata.json,description.txt,subtitles.srt,scenes.json} "$id/"
+          (git fetch -q origin builds && git checkout -q -B builds origin/builds) || echo "no builds branch yet"
+          for f in $GITHUB_WORKSPACE/scripts/*.md; do
+            id=$(basename "$f" .md)
+            if [ -d "$GITHUB_WORKSPACE/out/$id" ] && [ -f "$GITHUB_WORKSPACE/out/$id/video.mp4" ]; then
+              rm -rf "$id"; mkdir -p "$id"
+              cp "$GITHUB_WORKSPACE/out/$id/"{video.mp4,thumb_A.jpg,thumb_B.jpg,metadata.json,description.txt,subtitles.srt,scenes.json} "$id/"
+            elif [ ! -f "$id/video.mp4" ] && gh release view "v$id" -R "${{ github.repository }}" >/dev/null 2>&1; then
+              mkdir -p "$id"; gh release download "v$id" -R "${{ github.repository }}" -D "$id" --clobber || rm -rf "$id"
+            fi
           done
           # keep only the newest 12 builds on this branch (older ones stay available as releases)
           ls -d */ 2>/dev/null | sort | head -n -12 | xargs -r rm -rf
-          ls -d */ | sed 's#/##' > INDEX.txt
-          git add -A && git commit -q -m "builds: $BUILT" || echo "nothing to commit"
+          ls -d */ 2>/dev/null | sed 's#/##' > INDEX.txt
+          git add -A && git commit -q -m "builds $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to commit"
           git push -q --force origin builds
