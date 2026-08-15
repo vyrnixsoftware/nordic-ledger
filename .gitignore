@@ -1,0 +1,8 @@
+out/
+logs/
+assets/bin/
+assets/voices/
+assets/fonts/
+assets/maps/
+__pycache__/
+*.pyc
