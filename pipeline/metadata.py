@@ -40,7 +40,7 @@ def build_description(script: Script, cfg: dict, next_video_url: str | None = No
     if ch.get("contact"): lines.append(f"Business & press: {ch['contact']}")
     tags = script.meta.get("tags", [])[:3]
     lines += ["", " ".join("#" + re.sub(r"[^A-Za-z0-9]", "", t.title()) for t in tags) + " #BusinessDocumentary #TheNordicLedger"]
-    desc = "\n".join(lines)
+    desc = "\n".join(lines).replace("<", "under ").replace(">", "over ")  # YouTube rejects angle brackets
     return desc[:4990]
 
 

@@ -31,6 +31,9 @@ def compliance_check(script) -> list[str]:
     if not script.chapters: problems.append("no CHAPTERS block")
     words = narration_words(script)
     if words < 1200: problems.append(f"narration too short ({words} words)")
+    # unverified YouTube accounts are capped at 15:00; ~150 wpm + scene pads → keep narration ≤ 2250 words until verified
+    max_words = int(load_cfg().get("compliance", {}).get("max_words", 2250))
+    if words > max_words: problems.append(f"narration too long ({words} > {max_words} words; raise compliance.max_words after phone verification)")
     banned = ["but here's the thing", "in a world where", "let's dive in", "game-changer", "game changer", "buckle up"]
     text = " ".join(s.narration.lower() for s in script.scenes)
     for b in banned:

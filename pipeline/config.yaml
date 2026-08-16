@@ -21,3 +21,4 @@ compliance:
   synthetic_media_label: false     # set true per-video if realistic generated footage of real events/people
   max_uploads_per_week: 3
   require_sources: true
+  max_words: 2320            # ~15:00 at current voice speed; unverified accounts are capped at 15 min. Set 4000 after youtube.com/verify
