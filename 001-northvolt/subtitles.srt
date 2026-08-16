@@ -1,0 +1,584 @@
+1
+00:00:00,200 --> 00:00:01,717
+Wednesday, 12 March 2025.
+
+2
+00:00:01,717 --> 00:00:07,026
+Stockholm District Court receives a bankruptcy petition from Northvolt AB and four Swedish subsidiaries.
+
+3
+00:00:07,026 --> 00:00:18,784
+Around three thousand people at the Skellefteå factory, some on work visas that depend on the job, learn of it in a Teams call about as long as the word "konkurs".
+
+4
+00:00:18,784 --> 00:00:21,059
+A trustee, Mikael Kubu, is appointed.
+
+5
+00:00:21,059 --> 00:00:28,266
+Claims will eventually reach about ninety billion kronor, some eight billion dollars, owed to seventeen banks and several governments.
+
+6
+00:00:28,266 --> 00:00:33,955
+By capital invested, headcount and debt, it is the largest bankruptcy in modern Swedish history.
+
+7
+00:00:33,955 --> 00:00:38,127
+Eight years earlier, this company had been Europe's answer to China.
+
+8
+00:00:38,127 --> 00:00:40,023
+This is how it went.
+
+9
+00:00:40,423 --> 00:00:45,151
+That was the interim chairman on bankruptcy day, and the metaphor deserves a pause.
+
+10
+00:00:45,151 --> 00:00:47,177
+Northvolt had not run a marathon.
+
+11
+00:00:47,177 --> 00:00:54,945
+It had raised, by its own count, more than thirteen billion dollars in equity and debt, closer to fifteen with guarantees and commitments.
+
+12
+00:00:54,945 --> 00:01:01,700
+It had built one of Europe's largest industrial sites, roughly twice the footprint of Arlanda airport, according to the trustee.
+
+13
+00:01:01,700 --> 00:01:08,116
+And in the one year that mattered, it delivered less than half a percent of what it had promised.
+
+14
+00:01:08,116 --> 00:01:13,182
+To understand how, go back to 2015 and two men who had just left Tesla.
+
+15
+00:01:13,582 --> 00:01:22,651
+Peter Carlsson had run supply chain at Tesla during the Model S ramp; Paolo Cerruti was a vice president in the same function.
+
+16
+00:01:22,651 --> 00:01:27,777
+In 2015 they founded SGF Energy in Stockholm, renamed Northvolt in March 2017.
+
+17
+00:01:27,777 --> 00:01:31,325
+The pitch was clean and, at the time, unanswerable.
+
+18
+00:01:31,325 --> 00:01:38,028
+Europe's carmakers would soon need hundreds of gigawatt-hours of cells a year, almost all made in Asia.
+
+19
+00:01:38,028 --> 00:01:43,548
+Northern Sweden had cheap hydro power, land, and a government fond of industrial policy.
+
+20
+00:01:43,548 --> 00:01:51,434
+Northvolt would build "the world's greenest battery" and give European carmakers a supplier that was not Chinese, Korean or Japanese.
+
+21
+00:01:51,434 --> 00:01:55,772
+Investors, and Brussels, found this extremely easy to say yes to.
+
+22
+00:01:56,172 --> 00:01:58,561
+The empire, at its peak.
+
+23
+00:01:58,561 --> 00:01:59,995
+Headquarters in Stockholm.
+
+24
+00:01:59,995 --> 00:02:03,819
+Northvolt Labs, research and pilot plant, in Västerås.
+
+25
+00:02:03,819 --> 00:02:10,511
+Northvolt Ett, the gigafactory, in Skellefteå, two hundred kilometres south of the Arctic Circle.
+
+26
+00:02:10,511 --> 00:02:14,335
+A joint venture with Volvo Cars in Gothenburg.
+
+27
+00:02:14,335 --> 00:02:17,203
+Northvolt Dwa, energy-storage assembly, in Gdańsk.
+
+28
+00:02:17,203 --> 00:02:23,417
+Northvolt Drei, a second gigafactory breaking ground in Heide, Schleswig-Holstein, in March 2024.
+
+29
+00:02:23,417 --> 00:02:31,065
+Off this map: Northvolt Six, a seven-billion-Canadian-dollar plant planned outside Montreal, and a Californian subsidiary, Cuberg.
+
+30
+00:02:31,065 --> 00:02:39,190
+Six countries, five factories in various states of existence, and, as of 2023, one shipping commercial cells.
+
+31
+00:02:39,590 --> 00:02:40,916
+Follow the money.
+
+32
+00:02:40,916 --> 00:02:48,871
+In 2017 and 2018, small European Investment Bank loans and seed money from Vargas, Vattenfall, ABB and Scania.
+
+33
+00:02:48,871 --> 00:03:06,548
+In June 2019, the round that made the company: a billion dollars of equity led by Volkswagen and Goldman Sachs, with BMW, AMF, Folksam and IKEA's IMAS Foundation alongside; Volkswagen paid about nine hundred million euros for roughly twenty percent.
+
+34
+00:03:06,548 --> 00:03:13,176
+In 2020, one point six billion of bank debt and six hundred million of equity.
+
+35
+00:03:13,176 --> 00:03:16,270
+In 2021, two point seven five billion.
+
+36
+00:03:16,270 --> 00:03:22,457
+Convertibles of one point one and one point two billion in 2022 and 2023.
+
+37
+00:03:22,457 --> 00:03:33,947
+And in January 2024, five billion dollars of project finance from twenty-three banks plus the EIB and Nordic Investment Bank, billed as Europe's largest green loan.
+
+38
+00:03:34,347 --> 00:03:38,333
+Volkswagen about twenty-one percent, Goldman Sachs funds about nineteen.
+
+39
+00:03:38,333 --> 00:03:48,078
+Denmark's ATP five point three, the Swedish national AP funds together about three point seven, on five point eight billion kronor invested.
+
+40
+00:03:48,078 --> 00:03:53,836
+Then a long tail: BMW, Scania, Baillie Gifford, Canada's OMERS, Spotify's Daniel Ek.
+
+41
+00:03:53,836 --> 00:04:00,037
+Lenders: the EIB, KfW, and export credit agencies from Sweden, Germany, Korea and Japan.
+
+42
+00:04:00,037 --> 00:04:10,667
+Northvolt told these people in January 2024 that it held over fifty-five billion dollars of supply contracts with BMW, Scania, Volvo Cars and Volkswagen.
+
+43
+00:04:10,667 --> 00:04:17,311
+Nobody, so far as we can tell, asked how many cells had shipped against them.
+
+44
+00:04:17,711 --> 00:04:19,933
+Ambition, in 2019, was the product.
+
+45
+00:04:19,933 --> 00:04:25,117
+Ett was designed for sixteen gigawatt-hours, then thirty-two; by 2023 the plan was sixty.
+
+46
+00:04:25,117 --> 00:04:31,412
+The company hired between one and two hundred people a month, from more than a hundred countries.
+
+47
+00:04:31,412 --> 00:04:41,780
+Everyone around the table wanted it to be true: Volkswagen needed a non-Asian supplier, Brussels needed a Battery Alliance flagship, Sweden needed an industrial future in the north.
+
+48
+00:04:41,780 --> 00:04:43,631
+That is not a conspiracy.
+
+49
+00:04:43,631 --> 00:04:50,297
+It is a market with many buyers and exactly one seller of the thing they wanted to hear.
+
+50
+00:04:50,697 --> 00:04:53,184
+On paper the sequence is orderly.
+
+51
+00:04:53,184 --> 00:04:58,990
+Money in, factory up, first cell in December 2021, first delivery in May 2022.
+
+52
+00:04:58,990 --> 00:05:12,258
+What it leaves out is the ratio of announcements to physical cells: nearly every point on this line is a press release, and only one, May 2022, is a customer receiving product.
+
+53
+00:05:12,258 --> 00:05:20,966
+The plant, meanwhile, was being built, commissioned and debugged simultaneously, in a town whose previous industrial boom was a gold rush.
+
+54
+00:05:21,366 --> 00:05:23,160
+A word about the place.
+
+55
+00:05:23,160 --> 00:05:38,232
+Skellefteå is a municipality of about seventy-two thousand on the Gulf of Bothnia, known outside Sweden, if at all, for its ice hockey team and for Boliden, the mining company that began when someone found gold in a bog nearby in 1924.
+
+56
+00:05:38,232 --> 00:05:43,256
+There is a dry local memory of what happens when outsiders arrive with equipment.
+
+57
+00:05:43,256 --> 00:05:56,534
+Between 2019 and 2024 the town built housing, schools and a wooden cultural centre the height of a tower block, and the local paper, Norran, began publishing in English because many new readers could not read Swedish.
+
+58
+00:05:56,534 --> 00:06:03,353
+One can be a battery factory's biggest fan and still notice the fan base growing faster than the output.
+
+59
+00:06:03,753 --> 00:06:09,960
+The year the story turns, as two bars, one of which you may need to squint at.
+
+60
+00:06:09,960 --> 00:06:14,707
+In 2019 Northvolt said Ett would make sixteen gigawatt-hours a year by 2023.
+
+61
+00:06:14,707 --> 00:06:26,026
+In the first nine months of 2023 it made seventy-nine point eight megawatt-hours, not quite half a percent of the promise, while losing around eleven billion kronor, roughly a billion dollars.
+
+62
+00:06:26,026 --> 00:06:32,964
+Volume did improve; by early 2025 the company said serial-line output had doubled and yields were up fifty percent.
+
+63
+00:06:32,964 --> 00:06:41,362
+But when a chairman calls it a marathon, remember that customers were promised the runner in 2023 and were still waiting in 2025.
+
+64
+00:06:41,762 --> 00:06:46,192
+The post-mortem, from local reporting and a former employee's book, is unglamorous.
+
+65
+00:06:46,192 --> 00:06:59,851
+Much of the line equipment came from Wuxi Lead and other Chinese suppliers, arrived with Chinese manuals, and broke down often; when it did, staff in the Arctic winter got on video calls with technicians in Jiangsu.
+
+66
+00:06:59,851 --> 00:07:00,958
+Humidity control failed.
+
+67
+00:07:00,958 --> 00:07:06,865
+Employees say that at one point about half the output went straight to the defects division.
+
+68
+00:07:06,865 --> 00:07:16,462
+The in-house cathode plant, central to the "greenest battery" story, could not make material to specification, so from early 2024 Northvolt quietly imported cathode from China.
+
+69
+00:07:16,462 --> 00:07:20,523
+Several accounts describe bad news from the floor being unwelcome upstairs.
+
+70
+00:07:20,523 --> 00:07:22,369
+None of this is exotic.
+
+71
+00:07:22,369 --> 00:07:26,799
+It is what a factory looks like when fundraising sets the schedule.
+
+72
+00:07:27,199 --> 00:07:33,433
+On the evening of 4 November 2023 there was an explosion inside the Skellefteå plant.
+
+73
+00:07:33,433 --> 00:07:40,499
+A twenty-five-year-old employee from elsewhere in Europe, months into the job, died of his burns weeks later.
+
+74
+00:07:40,499 --> 00:07:47,150
+In early 2024 four more employees died within months; police found no link to their work.
+
+75
+00:07:47,150 --> 00:07:48,812
+The explosion is different.
+
+76
+00:07:48,812 --> 00:08:00,035
+In May 2025 prosecutor Christer Jarlås notified Peter Carlsson, chairman of the Ett subsidiary, that he was suspected of gross negligence resulting in death, alongside several managers.
+
+77
+00:08:00,035 --> 00:08:05,854
+As of June 2026 the prosecutor intends to charge, deciding no earlier than autumn.
+
+78
+00:08:05,854 --> 00:08:11,257
+Carlsson has called the accident "incredibly unfortunate and sad" and awaits the investigation.
+
+79
+00:08:11,657 --> 00:08:14,684
+The January 2024 loan was the high-water mark.
+
+80
+00:08:14,684 --> 00:08:25,659
+On 20 June, BMW cancelled a two-billion-euro cell contract signed in 2020, according to Handelsblatt and Manager Magazin because Northvolt was two years late and scrapping too much product.
+
+81
+00:08:25,659 --> 00:08:27,929
+The order went to Samsung SDI.
+
+82
+00:08:27,929 --> 00:08:30,957
+A one point two billion dollar raise failed.
+
+83
+00:08:30,957 --> 00:08:37,768
+In September Northvolt cut sixteen hundred jobs and reset the target from sixty gigawatt-hours to the original sixteen.
+
+84
+00:08:37,768 --> 00:08:41,552
+In October Volvo Cars took over the Gothenburg joint venture.
+
+85
+00:08:41,552 --> 00:08:45,715
+Cash was leaving at about a hundred million dollars a month.
+
+86
+00:08:45,715 --> 00:08:54,040
+Of two point seven billion euros in public loans announced over the years, only about five hundred and thirty million had arrived.
+
+87
+00:08:54,040 --> 00:08:57,068
+The rest had conditions, now impossible to meet.
+
+88
+00:08:57,468 --> 00:09:07,343
+On 21 November 2024 Northvolt filed for Chapter 11 in Texas: five point eight billion dollars of debt against thirty million of cash, about a week's runway.
+
+89
+00:09:07,343 --> 00:09:11,366
+Scania, truck maker and customer, put up a hundred-million-dollar debtor-in-possession loan.
+
+90
+00:09:11,366 --> 00:09:17,584
+The next day Carlsson resigned as chief executive, saying he was "confident" more capital could be raised.
+
+91
+00:09:17,584 --> 00:09:27,459
+Goldman Sachs funds wrote their eight hundred and ninety-six million dollar stake to zero; the FT reported it had been marked at four times cost months earlier.
+
+92
+00:09:27,459 --> 00:09:28,922
+Volkswagen wrote down too.
+
+93
+00:09:28,922 --> 00:09:36,969
+Deputy prime minister Ebba Busch said the state backed the battery industry but had "no plans to take a stake in Northvolt".
+
+94
+00:09:36,969 --> 00:09:38,798
+Nobody else stepped forward either.
+
+95
+00:09:39,198 --> 00:09:45,662
+The creditor list from the Texas filing is a map of who wanted a European battery champion.
+
+96
+00:09:45,662 --> 00:09:49,844
+Two point seven six billion dollars in a convertible loan vehicle.
+
+97
+00:09:49,844 --> 00:09:52,506
+Six hundred and seventy million from KfW.
+
+98
+00:09:52,506 --> 00:09:55,168
+Three hundred and thirty million from Volkswagen.
+
+99
+00:09:55,168 --> 00:10:04,293
+Around one point seven billion of secured debt on the Skellefteå plant, across the EIB and the German, Korean and Japanese export credit agencies.
+
+100
+00:10:04,293 --> 00:10:10,377
+Near the bottom, suppliers, including Chinese equipment makers reportedly owed close to half a billion euros.
+
+101
+00:10:10,377 --> 00:10:16,841
+In Sweden the trustee counts claims of around ninety billion kronor against assets of somewhat over forty.
+
+102
+00:10:16,841 --> 00:10:20,263
+Unsecured recoveries, when they come, will not be generous.
+
+103
+00:10:20,663 --> 00:10:24,734
+That is the trustee, a year on, and he has a point.
+
+104
+00:10:24,734 --> 00:10:35,928
+Swedish bankruptcy is a liquidation, not a reorganisation, and the obvious risk in March 2025 was that a plant twice the size of Arlanda would be switched off and left to the snow.
+
+105
+00:10:35,928 --> 00:10:36,945
+It was not.
+
+106
+00:10:36,945 --> 00:10:46,782
+About two hundred staff kept the lines warm through 2025 while Kubu ran a sale; most of the three hundred or so creditors at the first meeting were foreign.
+
+107
+00:10:46,782 --> 00:10:52,888
+The buyer was not a European carmaker, not a Korean cell maker, and not, notably, a European government.
+
+108
+00:10:52,888 --> 00:10:57,637
+It was a Silicon Valley startup most people in Skellefteå had never heard of.
+
+109
+00:10:58,037 --> 00:11:07,097
+Lyten, of San Jose, makes lithium-sulphur cells and had raised some six hundred million dollars, less than Northvolt spent in some quarters.
+
+110
+00:11:07,097 --> 00:11:18,627
+In August 2025 it agreed to buy the Skellefteå plant, the Västerås labs, the Heide site and the intellectual property, book value near five billion dollars; price undisclosed.
+
+111
+00:11:18,627 --> 00:11:20,686
+Poland closed in October 2025.
+
+112
+00:11:20,686 --> 00:11:31,804
+Sweden closed on 27 February 2026, later than planned, with six hundred rehires and a promise of commercial cells, conventional lithium-ion for Scania first, in late 2026.
+
+113
+00:11:31,804 --> 00:11:36,746
+Recycling followed in March; in July, a memorandum with KfW for Heide.
+
+114
+00:11:36,746 --> 00:11:40,864
+Quebec wrote off two hundred and seventy million Canadian dollars.
+
+115
+00:11:40,864 --> 00:11:46,629
+And EdgeConneX is taking part of the site for a gigawatt of data centre.
+
+116
+00:11:46,629 --> 00:11:49,923
+The hydro power, at least, has a customer.
+
+117
+00:11:50,323 --> 00:11:53,179
+Now the part we think matters most.
+
+118
+00:11:53,179 --> 00:11:58,076
+In 2025 CATL alone sold six hundred and sixty-one gigawatt-hours of batteries.
+
+119
+00:11:58,076 --> 00:12:02,972
+BYD installed close to two hundred, LG Energy Solution over a hundred.
+
+120
+00:12:02,972 --> 00:12:11,540
+Northvolt Ett's nameplate, the number that justified fifteen billion dollars, was sixteen; its output in the critical year, point zero eight.
+
+121
+00:12:11,540 --> 00:12:18,885
+CATL's 2025 net profit was seventy-two billion yuan, around ten billion dollars; its research budget twenty-two billion yuan.
+
+122
+00:12:18,885 --> 00:12:30,717
+The IEA puts China at over eighty percent of global cell capacity at end-2025 and Europe at six to seven, with European pack prices about thirty-five percent above China's.
+
+123
+00:12:30,717 --> 00:12:33,981
+This is not a race Northvolt was losing.
+
+124
+00:12:33,981 --> 00:12:36,021
+It had already been run.
+
+125
+00:12:36,421 --> 00:12:37,497
+Our position, plainly.
+
+126
+00:12:37,497 --> 00:12:41,440
+Northvolt did not fail for lack of money, engineers or ambition.
+
+127
+00:12:41,440 --> 00:12:45,024
+It failed because European industrial policy confused capital with capability.
+
+128
+00:12:45,024 --> 00:13:00,436
+China built its battery industry the other way round: a decade of subsidised domestic demand, dozens of cell makers fighting to the margin, and a home-grown equipment supply chain, so that when a line broke in Ningde the fix was down the road.
+
+129
+00:13:00,436 --> 00:13:10,473
+Europe skipped that and tried to buy the result with one very large cheque to one very young company, whose plant ran on Chinese machines and Chinese cathode.
+
+130
+00:13:10,473 --> 00:13:19,792
+CATL, meanwhile, is doing in Europe what Northvolt could not: Erfurt, a hundred gigawatt-hours in Hungary, a Stellantis joint venture in Spain with EU money attached.
+
+131
+00:13:19,792 --> 00:13:21,943
+Europe will have a battery industry.
+
+132
+00:13:21,943 --> 00:13:23,735
+Increasingly it will be Chinese-owned.
+
+133
+00:13:23,735 --> 00:13:26,244
+That was never in the press release.
+
+134
+00:13:26,644 --> 00:13:28,884
+What this case does not show.
+
+135
+00:13:28,884 --> 00:13:38,217
+It does not show Europe cannot make cells; the same building is being restarted, one line at a time, on a fraction of the money.
+
+136
+00:13:38,217 --> 00:13:53,524
+Nor is it, so far, a Wirecard-style fraud: one unit's trustee said in September 2025 that board liability looked unlikely, and the economic-crime allegations in Gunnar Lindstedt's 2026 book remain unconfirmed by the authority itself; Carlsson called them "new to me".
+
+137
+00:13:53,524 --> 00:13:57,258
+What it shows is a sequencing error at continental scale.
+
+138
+00:13:57,258 --> 00:14:00,991
+Build the capability, then scale it, then finance the scale.
+
+139
+00:14:00,991 --> 00:14:06,218
+Northvolt ran that backwards, and the factory has been paying the interest ever since.
+
+140
+00:14:06,618 --> 00:14:21,758
+Every figure in this video is drawn, where possible, from primary documents: Northvolt's own press releases and Chapter 11 filing, the trustee's statements, Lyten's transaction announcements, and reporting by Reuters, the Financial Times, Bloomberg, Sifted and Norran.
+
+141
+00:14:21,758 --> 00:14:26,260
+The full numbered list, with links, is in the description below.
+
+142
+00:14:26,260 --> 00:14:31,579
+Where a figure is approximate or contested, we have said so on screen.
+
+143
+00:14:31,979 --> 00:14:34,481
+That is the Northvolt ledger, so far.
+
+144
+00:14:34,481 --> 00:14:39,484
+We will update it as Lyten ships cells, Heide closes and the prosecutor decides.
+
+145
+00:14:39,484 --> 00:14:54,137
+If you found this useful, subscribing helps us make the next one, about a company that did not merely miss its production targets but invented them: Wirecard, Germany's DAX-listed payments firm, and the one point nine billion euros that never existed.
+
+146
+00:14:54,137 --> 00:14:56,281
+Until then, thank you for watching.
+

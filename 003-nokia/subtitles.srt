@@ -1,0 +1,488 @@
+1
+00:00:00,200 --> 00:00:01,702
+Friday, 11 February 2011.
+
+2
+00:00:01,702 --> 00:00:02,077
+London.
+
+3
+00:00:02,077 --> 00:00:14,847
+Stephen Elop, five months into the job as Nokia's first non-Finnish chief executive, stands beside Steve Ballmer of Microsoft and announces that the world's largest phone maker will bet its future on Windows Phone.
+
+4
+00:00:14,847 --> 00:00:22,734
+Symbian, on some two hundred million handsets, is demoted to a "franchise"; MeeGo, its successor, is cut to a single device.
+
+5
+00:00:22,734 --> 00:00:33,625
+Three days earlier an internal memo from Elop had leaked, comparing Nokia to a man on a burning North Sea oil platform deciding whether to jump into freezing water.
+
+6
+00:00:33,625 --> 00:00:39,635
+In Espoo, quite a few people had already worked out that the water was the point.
+
+7
+00:00:40,035 --> 00:00:51,556
+The memo is famous for its candour: "the first iPhone shipped in 2007, and we still don't have a product that is close to their experience"; Android "took our leadership position in smartphone volumes.
+
+8
+00:00:51,556 --> 00:00:55,622
+Unbelievable." It is less often read as a document about a country.
+
+9
+00:00:55,622 --> 00:01:00,027
+What stood on the platform was the Finnish economy's single largest moving part.
+
+10
+00:01:00,027 --> 00:01:04,432
+To see what jumped, and what stayed on the rig, rewind eleven years.
+
+11
+00:01:04,832 --> 00:01:07,833
+The numbers first, because they are the story.
+
+12
+00:01:07,833 --> 00:01:15,710
+In 2000, according to ETLA, the Research Institute of the Finnish Economy, Nokia alone was about four percent of Finland's GDP.
+
+13
+00:01:15,710 --> 00:01:22,837
+Its phones and network gear were roughly a fifth of exports; handsets by themselves, thirteen percent of goods exports.
+
+14
+00:01:22,837 --> 00:01:26,963
+In 2003 it paid twenty-three percent of all Finnish corporate tax.
+
+15
+00:01:26,963 --> 00:01:37,090
+In 2008 it still did about thirty-seven percent of all R&D in Finland, nearly half of business R&D, on a global research budget approaching six billion euros.
+
+16
+00:01:37,090 --> 00:01:46,092
+At the 2000 peak the market valued it at around three hundred billion euros, in a country of five and a half million people.
+
+17
+00:01:46,092 --> 00:01:50,969
+No developed economy has leaned on one company like this, before or since.
+
+18
+00:01:51,369 --> 00:01:52,453
+A Finnish footnote.
+
+19
+00:01:52,453 --> 00:02:03,654
+To a Finn, Nokia is first a town on the Nokianvirta river, where Fredrik Idestam opened his second pulp mill in 1868 and the Finnish Rubber Works set up in 1898.
+
+20
+00:02:03,654 --> 00:02:15,577
+For a century the company made paper, cables, gas masks, tyres and the rubber boots every Finnish child has worn to a bus stop; Nokian Tyres and Nokian Footwear still carry the name.
+
+21
+00:02:15,577 --> 00:02:22,442
+So when a Finn hears that "Nokia collapsed", there is a brief national reflex to check the boot cupboard.
+
+22
+00:02:22,442 --> 00:02:37,256
+The phone business is younger than most of its customers: Jorma Ollila took over in 1992, the year of the first commercial GSM handset, and the ringtone that colonised the planet, thirteen notes of a Spanish guitar waltz, arrived in 1994.
+
+23
+00:02:37,656 --> 00:02:51,292
+Four percent of GDP in 2000; three and a half in 2004; two point six by 2008; one point six in 2009; under half a percent by 2013, the year the phones were sold.
+
+24
+00:02:51,292 --> 00:03:07,735
+Exports ran the same way: handsets went from thirteen percent of Finnish goods exports in 2000 to one percent in 2013, and the European Commission later reckoned phone exports alone explained about half of Finland's lost export market share after 2008.
+
+25
+00:03:08,135 --> 00:03:11,449
+The conventional account is that Nokia missed the iPhone.
+
+26
+00:03:11,449 --> 00:03:12,185
+Not quite.
+
+27
+00:03:12,185 --> 00:03:22,864
+In 2007 Nokia sold about four hundred and thirty-seven million phones, roughly forty percent of the world market, and its engineers had built a touchscreen internet phone in 2004.
+
+28
+00:03:22,864 --> 00:03:25,810
+The problem was not sight; it was digestion.
+
+29
+00:03:25,810 --> 00:03:32,071
+Symbian was a capable operating system for a phone and a miserable one for an app economy.
+
+30
+00:03:32,071 --> 00:03:37,594
+MeeGo, the Linux replacement developed with Intel, was permanently a year and a half away.
+
+31
+00:03:37,594 --> 00:03:43,486
+Nokia had spent years, and much of the country's R&D, shipping software its own developers dreaded.
+
+32
+00:03:43,486 --> 00:03:49,746
+Elop's phrase was accurate: the fight had moved from devices to ecosystems, and Nokia had a device.
+
+33
+00:03:50,146 --> 00:03:53,202
+Read it once and it looks like a funeral.
+
+34
+00:03:53,202 --> 00:04:03,390
+Read it again and notice July 2013: two months before selling the phones, Nokia quietly paid Siemens one point seven billion euros for the other half of its networks business.
+
+35
+00:04:03,390 --> 00:04:06,786
+The handset story ends in the middle of this list.
+
+36
+00:04:06,786 --> 00:04:08,144
+The company does not.
+
+37
+00:04:08,544 --> 00:04:13,315
+The choice in London was to jump towards Redmond rather than Mountain View.
+
+38
+00:04:13,315 --> 00:04:19,554
+Symbian would be "harvested", perhaps a hundred and fifty million more units, its developers moved to Accenture.
+
+39
+00:04:19,554 --> 00:04:30,930
+MeeGo got one phone, the N9, well reviewed and immediately orphaned; the engineers who built it left that October to found Jolla, helped, as it happens, by Nokia's own severance scheme.
+
+40
+00:04:30,930 --> 00:04:34,967
+The first Lumias arrived in late 2011: good hardware, no apps.
+
+41
+00:04:34,967 --> 00:04:40,839
+Nokia's smartphone share went from roughly a third in 2010 to under three percent in 2013.
+
+42
+00:04:40,839 --> 00:04:45,243
+Whether Android would have saved it is the great Finnish pub argument.
+
+43
+00:04:45,243 --> 00:04:50,013
+The speed is not arguable: the platform did burn, in about two years.
+
+44
+00:04:50,413 --> 00:04:52,705
+Now the part outsiders rarely hear.
+
+45
+00:04:52,705 --> 00:04:59,960
+In April 2011, as the cuts began, Nokia launched Bridge, a programme for people it was about to lose.
+
+46
+00:04:59,960 --> 00:05:09,507
+Anyone leaving could pitch for twenty-five thousand euros of seed money; four ex-colleagues together, a hundred thousand, up to a hundred and fifty with follow-on.
+
+47
+00:05:09,507 --> 00:05:11,035
+Nokia took no shares.
+
+48
+00:05:11,035 --> 00:05:20,199
+By mid-2013 Yle counted about four hundred companies in Finland alone, ninety percent still trading; worldwide the programme is credited with over a thousand.
+
+49
+00:05:20,199 --> 00:05:25,928
+A third were technology firms, a third freelancers, a third people doing something else entirely.
+
+50
+00:05:25,928 --> 00:05:33,183
+It was cheap, by Nokia standards, and one reason Helsinki says "the Nokia diaspora" rather than "the Nokia collapse".
+
+51
+00:05:33,583 --> 00:05:46,389
+On 3 September 2013, Microsoft agreed to buy Nokia's Devices and Services business for five point four four billion euros: three point seven nine for the business, one point six five for a patent licence.
+
+52
+00:05:46,389 --> 00:05:50,779
+Thirty-two thousand people would move across, four thousand seven hundred in Finland.
+
+53
+00:05:50,779 --> 00:05:58,097
+Elop went with them, which in Finland ended the argument about whose side he had been on without settling it.
+
+54
+00:05:58,097 --> 00:06:00,658
+The deal closed on 25 April 2014.
+
+55
+00:06:00,658 --> 00:06:09,805
+Fourteen months later Microsoft wrote off seven point six billion dollars and cut seven thousand eight hundred jobs, many in Salo, the Finnish factory town.
+
+56
+00:06:09,805 --> 00:06:16,025
+It had paid five and a half billion euros for something it would shortly value at nothing.
+
+57
+00:06:16,425 --> 00:06:22,184
+That is the head of Helsinki's largest startup campus, saying what Finns now say without embarrassment.
+
+58
+00:06:22,184 --> 00:06:25,783
+But before crediting the recovery, be honest about the wound.
+
+59
+00:06:25,783 --> 00:06:30,461
+It was the worst decade for the Finnish economy since the early 1990s.
+
+60
+00:06:30,861 --> 00:06:34,808
+Real income per head rose fifty-five percent between 1995 and 2007.
+
+61
+00:06:34,808 --> 00:06:36,961
+Between 2008 and 2019 it fell.
+
+62
+00:06:36,961 --> 00:06:42,342
+The economy shrank hard in 2009, then contracted or stagnated for four years from 2012.
+
+63
+00:06:42,342 --> 00:06:47,724
+Finland's share of world export markets dropped by a third, roughly half of it phones.
+
+64
+00:06:47,724 --> 00:06:58,129
+It would be dishonest to hang all of it on one company: paper was shrinking, Russia stopped buying, the euro removed the old devaluation trick, the boomers were retiring.
+
+65
+00:06:58,129 --> 00:07:11,045
+But when a country loses four percent of GDP and a quarter of its corporate tax from a single address in Espoo, the rest of the economy has to be doing very well to hide it.
+
+66
+00:07:11,045 --> 00:07:12,122
+It was not.
+
+67
+00:07:12,522 --> 00:07:22,746
+The chart finance ministries look at, and it is brutal: twenty-three percent of all corporate tax in 2003, nine by 2008, two and a half in 2009.
+
+68
+00:07:22,746 --> 00:07:24,260
+There is a coda.
+
+69
+00:07:24,260 --> 00:07:37,135
+In 2021 the largest single corporate taxpayer in Finland was not a paper company or a bank but Supercell, a games studio with a few hundred employees, at a hundred and fifty-three million euros.
+
+70
+00:07:37,535 --> 00:07:40,899
+An IMF working paper in 2021 followed the people.
+
+71
+00:07:40,899 --> 00:07:56,600
+About twenty-five thousand left Nokia in Finland between 2008 and 2017; more than half went to other Finnish companies, which did better afterwards: value added up five to ten percent, sales up five to thirteen, operating profit up as much as fourteen.
+
+72
+00:07:56,600 --> 00:08:07,815
+The effect was largest for those hired during the collapse, a polite way of saying that people who have watched a giant fail are worth more to the next employer.
+
+73
+00:08:07,815 --> 00:08:16,039
+One caution the study is careful about, and so are we: it found no statistical evidence that Nokia's decline itself created startups.
+
+74
+00:08:16,039 --> 00:08:18,282
+The diaspora made existing firms better.
+
+75
+00:08:18,282 --> 00:08:20,151
+The startups had other parents.
+
+76
+00:08:20,551 --> 00:08:26,642
+Those parents were a games studio, a student conference and a good deal of confidence.
+
+77
+00:08:26,642 --> 00:08:36,389
+Rovio released Angry Birds in December 2009, listed in 2017 and was sold to Sega in 2023 for seven hundred and six million euros.
+
+78
+00:08:36,389 --> 00:08:51,008
+Supercell was founded in 2010; SoftBank paid one and a half billion dollars for half of it in 2013, and Tencent eight point six billion for eighty-four percent in 2016, on a ten billion dollar valuation.
+
+79
+00:08:51,008 --> 00:09:03,598
+Slush, started by students in 2008, now draws thirteen thousand a year; its former chief, Miki Kuusi, founded Wolt in 2014 and sold it to DoorDash for about seven billion euros.
+
+80
+00:09:03,598 --> 00:09:11,720
+Finland's games industry alone turned over two point eight five billion euros in 2024, across two hundred and seventy studios.
+
+81
+00:09:11,720 --> 00:09:13,750
+None was a Nokia spin-out.
+
+82
+00:09:13,750 --> 00:09:20,248
+All were built by people who assumed Finland could produce world-beating software, because it just had.
+
+83
+00:09:20,648 --> 00:09:24,666
+While Finland mourned, the company did something dull and sensible.
+
+84
+00:09:24,666 --> 00:09:44,353
+It bought the rest of its network business from Siemens for one point seven billion euros in July 2013, sold the maps division, and in April 2015 announced the fifteen point six billion euro purchase of Alcatel-Lucent, which brought Bell Labs; the two ran as one from January 2016.
+
+85
+00:09:44,353 --> 00:09:56,005
+That December HMD Global, ex-Nokia executives in Espoo, relaunched Nokia-branded phones under a ten-year licence, having bought Microsoft's feature-phone remnants with Foxconn for three hundred and fifty million dollars.
+
+86
+00:09:56,005 --> 00:10:06,452
+In 2018 the Finnish state's holding company took three point three percent, which is what Finland does with things it would prefer not to lose twice.
+
+87
+00:10:06,852 --> 00:10:08,736
+Which brings us to now.
+
+88
+00:10:08,736 --> 00:10:18,536
+Nokia's 2025 revenue was nineteen point nine billion euros, with two billion of comparable operating profit: a large, unglamorous business selling the plumbing of the internet.
+
+89
+00:10:18,536 --> 00:10:27,204
+In March 2025 it closed the two point three billion dollar purchase of Infinera, an American optical-networking firm that sells to data centres.
+
+90
+00:10:27,204 --> 00:10:32,104
+In April Justin Hotard, from Intel's data-centre and AI unit, replaced Pekka Lundmark.
+
+91
+00:10:32,104 --> 00:10:48,688
+In October Nvidia paid a billion dollars for about three percent and a shared roadmap for AI-native radio networks; in November Hotard cut the company to two segments and set a 2028 profit target of two point seven to three point two billion euros.
+
+92
+00:10:48,688 --> 00:10:56,603
+In the second quarter of 2026 sales grew nine percent, sales to AI and cloud customers doubled, and guidance was raised.
+
+93
+00:10:56,603 --> 00:11:04,895
+Six thousand six hundred people work for it in Finland, and a quarter of its first patent filings still come from there.
+
+94
+00:11:04,895 --> 00:11:09,041
+Whether GPUs belong in a base station is a live argument.
+
+95
+00:11:09,041 --> 00:11:11,302
+Whether Nokia is alive is not.
+
+96
+00:11:11,702 --> 00:11:15,254
+A postscript, because the ringtone will not quite die.
+
+97
+00:11:15,254 --> 00:11:30,645
+HMD's Nokia smartphone licence ran out in March 2026, and Nokia said last summer it was looking for a new large-scale partner; feature phones, of the kind India buys fifty-four million of a year, keep the name until 2029.
+
+98
+00:11:30,645 --> 00:11:36,959
+And Hotard's strategy borrows the old slogan: Nokia connected people once and will now connect intelligence.
+
+99
+00:11:36,959 --> 00:11:44,851
+When a Nordic company reuses a thirty-year-old tagline, the tagline is usually worth more than the product it once described.
+
+100
+00:11:45,251 --> 00:11:46,289
+Our position, plainly.
+
+101
+00:11:46,289 --> 00:11:50,785
+Nokia's collapse produced a better Finnish economy than Nokia's continued success would have.
+
+102
+00:11:50,785 --> 00:12:03,928
+An economy in which one company is four percent of output, a quarter of corporate tax and over a third of all research is not strong; it is a single point of failure with a good credit rating.
+
+103
+00:12:03,928 --> 00:12:21,221
+What Finland has now is smaller at the top and wider underneath: hundreds of software companies, a games industry the size of a mid-cap, several multi-billion-euro exits, a record one and a half billion euros of venture funding in 2025, and still a twenty-billion-euro networks company paying tax in Espoo.
+
+104
+00:12:21,221 --> 00:12:28,139
+Talent that sat inside one hierarchy now sits inside hundreds, and the firms it moved to became measurably more profitable.
+
+105
+00:12:28,139 --> 00:12:32,981
+Decentralised engineers beat a centralised giant, in the one country that ran the experiment.
+
+106
+00:12:32,981 --> 00:12:38,169
+The caveat is real: income per head went sideways for a decade to get here.
+
+107
+00:12:38,169 --> 00:12:40,244
+Better does not yet mean richer.
+
+108
+00:12:40,244 --> 00:12:45,778
+It means the next iPhone will not take a quarter of the tax base with it.
+
+109
+00:12:46,178 --> 00:12:47,952
+What it does not prove.
+
+110
+00:12:47,952 --> 00:12:54,340
+Not that better management would have saved the phones; Symbian was stuck and the ecosystem war was real.
+
+111
+00:12:54,340 --> 00:13:05,341
+Not that sacking engineers creates founders; ETLA found no startup surge in 2008 to 2010, and the 2011 boom owed as much to Slush, Aalto University and Rovio as to Bridge.
+
+112
+00:13:05,341 --> 00:13:10,309
+Not that Elop was an arsonist; the memo described a fire burning since 2007.
+
+113
+00:13:10,309 --> 00:13:19,891
+And it is not a template: Bridge cost Nokia, not the taxpayer, and few collapsing champions are as well funded, or as decent on the way out.
+
+114
+00:13:19,891 --> 00:13:23,440
+Finland was lucky in the manner of its bad luck.
+
+115
+00:13:23,440 --> 00:13:25,569
+It also, to its credit, noticed.
+
+116
+00:13:25,969 --> 00:13:41,543
+Every figure in this video is drawn, where possible, from primary sources: ETLA's research on Nokia and Finland, the IMF working paper on Nokia's diaspora, Nokia's and Microsoft's own releases and financial reports, Yle, and reporting by Reuters, Sifted and TechCrunch.
+
+117
+00:13:41,543 --> 00:13:45,722
+The full numbered list, with links, is in the description below.
+
+118
+00:13:45,722 --> 00:13:52,939
+Where a figure is approximate, contested or a valuation rather than a price, we have said so on screen.
+
+119
+00:13:53,339 --> 00:13:59,729
+That is the Nokia ledger: one company, one country, and the rare fall that turned out to be a redistribution.
+
+120
+00:13:59,729 --> 00:14:02,924
+We will update it as Hotard's data-centre bet plays out.
+
+121
+00:14:02,924 --> 00:14:17,941
+If you found this useful, subscribing helps us make the next one, about a bank whose Estonian branch moved some two hundred billion euros of suspicious money through a country of one point three million people while head office in Copenhagen looked at its shoes: Danske Bank.
+
+122
+00:14:17,941 --> 00:14:19,858
+Until then, thank you for watching.
+

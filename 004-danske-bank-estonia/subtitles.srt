@@ -1,0 +1,592 @@
+1
+00:00:00,200 --> 00:00:01,750
+Wednesday, 19 September 2018.
+
+2
+00:00:01,750 --> 00:00:02,137
+Copenhagen.
+
+3
+00:00:02,137 --> 00:00:12,214
+Danske Bank, Denmark's largest, publishes an eighty-seven-page report by the law firm Bruun & Hjejle and holds a press conference in its headquarters by the harbour.
+
+4
+00:00:12,214 --> 00:00:30,817
+The findings: a branch in Tallinn with around ten thousand non-resident customers, later widened to fifteen thousand, had processed some nine and a half million payments worth roughly two hundred billion euros between 2007 and 2015, and the bank could not say how much of it was clean.
+
+5
+00:00:30,817 --> 00:00:35,467
+Before the questions began, chief executive Thomas Borgen announced he was resigning.
+
+6
+00:00:35,467 --> 00:00:38,955
+The share price, already halved that year, kept falling.
+
+7
+00:00:38,955 --> 00:00:44,769
+To understand how a Nordic bank arrived here, go back eleven years and one acquisition.
+
+8
+00:00:45,169 --> 00:00:48,383
+That was the resignation statement, and note the word "possible".
+
+9
+00:00:48,383 --> 00:00:58,024
+Even on the day, the bank was not saying laundering had happened, only that it could not rule it out for the vast majority of the accounts it had examined.
+
+10
+00:00:58,024 --> 00:01:03,488
+Two hundred billion euros is roughly two-thirds of Denmark's annual output, or about eight years of Estonia's.
+
+11
+00:01:03,488 --> 00:01:07,345
+It is not the amount laundered; the report was careful about that.
+
+12
+00:01:07,345 --> 00:01:13,772
+It is the amount that passed through a portfolio which, by the bank's own account, nobody in Copenhagen properly understood.
+
+13
+00:01:13,772 --> 00:01:19,879
+How such a portfolio came to sit inside Denmark's most respectable institution begins with a Finnish bank called Sampo.
+
+14
+00:01:20,279 --> 00:01:28,615
+In November 2006 Danske agreed to buy Sampo Bank, Finland's third-largest, for just over four billion euros; the deal closed in February 2007.
+
+15
+00:01:28,615 --> 00:01:31,152
+More than half the price was goodwill.
+
+16
+00:01:31,152 --> 00:01:40,939
+Included, almost as a rounding error, were Sampo's Baltic operations, and inside the Estonian one, an "international banking" unit serving customers who did not live in Estonia.
+
+17
+00:01:40,939 --> 00:01:48,550
+Many were companies registered in Britain, Cyprus or the British Virgin Islands with owners in Russia and the former Soviet republics.
+
+18
+00:01:48,550 --> 00:01:49,637
+Danske knew this.
+
+19
+00:01:49,637 --> 00:01:58,336
+What it did next mattered more: in 2008, on cost grounds, it decided not to move the Baltic banks onto the group's IT system.
+
+20
+00:01:58,336 --> 00:02:03,048
+Copenhagen would own the branch but would not be able to read it.
+
+21
+00:02:03,448 --> 00:02:05,355
+The geography of the business.
+
+22
+00:02:05,355 --> 00:02:09,168
+Copenhagen, the head office, and Helsinki, where Sampo had been.
+
+23
+00:02:09,168 --> 00:02:15,269
+Tallinn, the branch, on Narva Road, an unremarkable office in a city of four hundred thousand.
+
+24
+00:02:15,269 --> 00:02:17,176
+Riga and Vilnius, sister operations.
+
+25
+00:02:17,176 --> 00:02:22,133
+To the east, St Petersburg and Moscow, where much of the money originated.
+
+26
+00:02:22,133 --> 00:02:30,903
+To the west, London and Limassol, where many of the customers were legally domiciled: limited liability partnerships and Cypriot shells with nominee directors.
+
+27
+00:02:30,903 --> 00:02:37,767
+And, not on this map, New York, where the dollars actually cleared, through correspondent accounts at American banks.
+
+28
+00:02:37,767 --> 00:02:42,343
+That last stop is the reason the story ends where it does.
+
+29
+00:02:42,743 --> 00:02:45,350
+The numbers, from the bank's own report.
+
+30
+00:02:45,350 --> 00:02:53,543
+About ten thousand customers in the core non-resident portfolio, fifteen thousand once the investigators widened the net to anyone with cross-border characteristics.
+
+31
+00:02:53,543 --> 00:02:55,778
+Nine and a half million payments.
+
+32
+00:02:55,778 --> 00:03:02,109
+Of the six thousand two hundred customers examined by September 2018, "the vast majority" were deemed suspicious.
+
+33
+00:03:02,109 --> 00:03:09,184
+Forty-two current and former employees and agents were judged to have been involved; eight were reported to Estonian police.
+
+34
+00:03:09,184 --> 00:03:12,164
+Deposits were never large, under a billion euros.
+
+35
+00:03:12,164 --> 00:03:15,143
+This was not a bank holding dirty money.
+
+36
+00:03:15,143 --> 00:03:21,847
+It was a bank moving it, quickly, in dollars and euros, and taking a fee at each turn.
+
+37
+00:03:22,247 --> 00:03:25,592
+The warnings arrived early and from unusual quarters.
+
+38
+00:03:25,592 --> 00:03:41,063
+In June 2007 the Russian central bank wrote to the Danish regulator describing customers moving "billions of roubles monthly" in ways suggesting tax evasion or, in its phrase, "criminal activity in its pure form, including money laundering".
+
+39
+00:03:41,063 --> 00:03:48,171
+That August the Estonian regulator inspected and found the branch's customer checks did not meet international standards.
+
+40
+00:03:48,171 --> 00:03:51,516
+A 2009 follow-up found improvement and continued deficiencies.
+
+41
+00:03:51,516 --> 00:03:56,952
+In 2013 an American bank stopped clearing the branch's dollars, citing anti-money-laundering concerns.
+
+42
+00:03:56,952 --> 00:04:06,569
+In Copenhagen, group internal audit had rated the branch's compliance "satisfactory" in 2008 and did not look hard again until someone made it.
+
+43
+00:04:06,969 --> 00:04:09,658
+Why nobody in Tallinn wanted to look.
+
+44
+00:04:09,658 --> 00:04:18,491
+According to the report, the non-resident portfolio contributed between forty and ninety-nine percent of the branch's profit before credit losses, peaking around 2013.
+
+45
+00:04:18,491 --> 00:04:26,940
+It held forty-four percent of all non-resident deposits in Estonian banks that year while representing a small fraction of the branch's customers.
+
+46
+00:04:26,940 --> 00:04:33,085
+For a mid-sized Baltic operation inside a group that barely noticed it, this was the business.
+
+47
+00:04:33,085 --> 00:04:37,310
+Everything else, mortgages for Estonians, card payments, corporate lending, was decoration.
+
+48
+00:04:37,310 --> 00:04:43,455
+When a unit is nearly all of your profit, an inspection report is not a warning.
+
+49
+00:04:43,455 --> 00:04:44,991
+It is a threat.
+
+50
+00:04:45,391 --> 00:04:52,184
+The someone was Howard Wilkinson, a British trader who ran Danske's markets desk for the Baltics from Tallinn.
+
+51
+00:04:52,184 --> 00:04:56,713
+In late December 2013 he sent Copenhagen the first of four reports.
+
+52
+00:04:56,713 --> 00:05:07,658
+He had looked up one customer, a British limited liability partnership, at Companies House and found it filing accounts showing no activity while it moved money through the branch.
+
+53
+00:05:07,658 --> 00:05:13,696
+Its owners, he reported, apparently included a relative of Vladimir Putin and the Russian security service.
+
+54
+00:05:13,696 --> 00:05:19,358
+He warned that the bank was doing business with clients whose accounts were plainly false.
+
+55
+00:05:19,358 --> 00:05:25,019
+Internal audit checked and, in early 2014, agreed: all three lines of defence had failed.
+
+56
+00:05:25,019 --> 00:05:30,680
+Wilkinson resigned in April 2014, signed a confidentiality clause with his severance, and went home.
+
+57
+00:05:31,080 --> 00:05:36,770
+The bank's own lawyers, four years later, put it as plainly as lawyers do.
+
+58
+00:05:36,770 --> 00:05:41,648
+What followed the whistleblower is the part Copenhagen has never fully explained.
+
+59
+00:05:41,648 --> 00:05:45,306
+Internal audit's 2014 findings went to the executive board.
+
+60
+00:05:45,306 --> 00:05:52,216
+The Estonian regulator, in a separate 2014 inspection, found "large-scale, long-lasting systemic violations" and told the Danes.
+
+61
+00:05:52,216 --> 00:05:57,906
+Minutes of an October 2014 board discussion were, in the report's word, "toned down".
+
+62
+00:05:57,906 --> 00:06:05,629
+The portfolio was not shut but wound down, gradually, until late 2015; the last accounts closed in early 2016.
+
+63
+00:06:05,629 --> 00:06:08,068
+From the outside, an orderly exit.
+
+64
+00:06:08,068 --> 00:06:17,823
+From the inside, two more years of fees, and a group chief executive who had, until 2012, run the very division that owned Tallinn.
+
+65
+00:06:18,223 --> 00:06:22,046
+A word about the chief executive, because the timeline matters.
+
+66
+00:06:22,046 --> 00:06:31,604
+Thomas Borgen, a Norwegian, ran Danske's international banking division, the one that included the Baltics, from 2009 to 2012, the years the non-resident flows peaked.
+
+67
+00:06:31,604 --> 00:06:36,956
+He became group chief executive in September 2013, three months before Wilkinson's first report.
+
+68
+00:06:36,956 --> 00:06:45,750
+He was in the chair when internal audit confirmed the failures, when the Estonian regulator complained, and when the portfolio was quietly closed.
+
+69
+00:06:45,750 --> 00:06:53,778
+None of that is a finding of guilt; Danish prosecutors and a Danish court would both later decline to make one.
+
+70
+00:06:53,778 --> 00:06:58,366
+It is simply the reason the resignation, when it came, was his.
+
+71
+00:06:58,766 --> 00:07:02,243
+The scandal did not surface because of a regulator.
+
+72
+00:07:02,243 --> 00:07:04,560
+It surfaced because of a newspaper.
+
+73
+00:07:04,560 --> 00:07:17,308
+From March 2017 the Danish daily Berlingske, working with the Organised Crime and Corruption Reporting Project, showed that flows from the so-called Russian Laundromat and later the Azerbaijani Laundromat had run through Tallinn.
+
+74
+00:07:17,308 --> 00:07:24,647
+Estimates climbed through 2018, from tens of billions of kroner to hundreds, and eventually to two hundred billion euros.
+
+75
+00:07:24,647 --> 00:07:30,828
+The Danish regulator issued orders and a capital add-on in May and doubled it in October.
+
+76
+00:07:30,828 --> 00:07:38,553
+In November Wilkinson, released from his silence, told the Danish and European parliaments what he had told Copenhagen in 2013.
+
+77
+00:07:38,553 --> 00:07:41,257
+By then the chief executive was gone.
+
+78
+00:07:41,657 --> 00:07:47,601
+The Bruun & Hjejle report is remarkably candid about the branch and remarkably gentle about the top.
+
+79
+00:07:47,601 --> 00:07:54,943
+Its lawyers concluded that the board, the chairman and the chief executive had "not breached their legal obligations towards the bank".
+
+80
+00:07:54,943 --> 00:08:00,187
+Responsibility landed on "numerous employees" at branch and group level, most conveniently no longer employed.
+
+81
+00:08:00,187 --> 00:08:12,773
+The bank pledged the roughly one and a half billion kroner it had earned from the portfolio to a foundation against financial crime, a gesture that concedes the income was not respectable without conceding anything else.
+
+82
+00:08:12,773 --> 00:08:20,465
+It also confirmed that the group's IT platform never reached Tallinn, so head office monitoring of the branch was, in effect, manual.
+
+83
+00:08:20,465 --> 00:08:23,612
+Nobody had noticed because nobody was set up to.
+
+84
+00:08:24,012 --> 00:08:28,275
+Here is the editorial point, and we think it is the whole story.
+
+85
+00:08:28,275 --> 00:08:33,850
+Why did a Russian company with a Cypriot parent and nominee directors in London bank in Tallinn?
+
+86
+00:08:33,850 --> 00:08:35,490
+Not for the interest rate.
+
+87
+00:08:35,490 --> 00:08:44,344
+It banked there because the account said Danske Bank on it: a Danish name, a Danish regulator, a AA rating, a country that tops every anti-corruption ranking.
+
+88
+00:08:44,344 --> 00:08:52,215
+A payment from Danske Estonia to a New York correspondent carried a presumption of cleanliness that a payment from a Latvian bank did not.
+
+89
+00:08:52,215 --> 00:08:56,806
+That presumption was worth paying for, and it was what the customers were buying.
+
+90
+00:08:56,806 --> 00:09:00,413
+Danske's compliance reputation was not being undermined by the non-resident business.
+
+91
+00:09:00,413 --> 00:09:02,381
+It was being sold by it.
+
+92
+00:09:02,381 --> 00:09:05,660
+Once you see the model, the profit numbers make sense.
+
+93
+00:09:06,060 --> 00:09:09,469
+The first regulator to act decisively was the smallest.
+
+94
+00:09:09,469 --> 00:09:16,287
+On 19 February 2019 the Estonian financial supervisor, Finantsinspektsioon, ordered Danske to close its branch within eight months.
+
+95
+00:09:16,287 --> 00:09:23,862
+The bank complied ahead of schedule, shutting on 1 October 2019 and leaving Latvia, Lithuania and Russia in the process.
+
+96
+00:09:23,862 --> 00:09:38,255
+Ten former branch employees had been detained in December 2018; six were eventually charged with organising the laundering of at least one point six billion dollars and went on trial in Tallinn in November 2023, pleading not guilty.
+
+97
+00:09:38,255 --> 00:09:46,967
+In September 2019 Aivar Rehe, who had run the branch through the entire period, was found dead near his home; police concluded suicide.
+
+98
+00:09:46,967 --> 00:09:50,755
+Estonia had cleaned up the mess it was left with.
+
+99
+00:09:50,755 --> 00:09:54,542
+It could not reach the people who had made it.
+
+100
+00:09:54,942 --> 00:09:56,104
+Denmark tried, briefly.
+
+101
+00:09:56,104 --> 00:10:01,527
+In May 2019 prosecutors brought preliminary charges against Borgen and the former finance director.
+
+102
+00:10:01,527 --> 00:10:11,209
+In April 2021 they dropped them, and the case against Lars Mørch, saying there was "no legal evidence that any individual has broken the law".
+
+103
+00:10:11,209 --> 00:10:34,835
+A group of some hundred and fifty institutional investors sued Borgen personally for about two point four billion kroner; in November 2022 a district court cleared him, and the investors appealed to the Eastern High Court, where a much larger set of shareholder claims, well over ten billion kroner from hundreds of funds, has been proceeding by test case since 2023.
+
+104
+00:10:34,835 --> 00:10:37,546
+Norway's oil fund dropped its own claim.
+
+105
+00:10:37,546 --> 00:10:42,969
+As of our research, no former Danske executive has been convicted of anything, anywhere.
+
+106
+00:10:43,369 --> 00:10:46,065
+The fix, when it came, was American.
+
+107
+00:10:46,065 --> 00:10:52,226
+On 13 December 2022 Danske Bank pleaded guilty in Manhattan to conspiracy to commit bank fraud.
+
+108
+00:10:52,226 --> 00:11:03,395
+Not money laundering: fraud, against the American banks whose correspondent accounts it had used, by misrepresenting its Estonian controls while moving a hundred and sixty billion dollars through them.
+
+109
+00:11:03,395 --> 00:11:20,340
+Total penalties: about two point six billion dollars, of which the Justice Department kept some one point two billion, the SEC took a hundred and seventy-nine million, and Denmark's Special Crime Unit received four point seven five billion kroner, credited against the US figure.
+
+110
+00:11:20,340 --> 00:11:28,042
+The bank had set aside fifteen and a half billion kroner in October and booked a loss for the year.
+
+111
+00:11:28,042 --> 00:11:29,968
+Three years of probation followed.
+
+112
+00:11:29,968 --> 00:11:32,663
+It ended, without incident, in December 2025.
+
+113
+00:11:33,063 --> 00:11:38,654
+That is the sentence that decided the case, and it was spoken in Washington, not Copenhagen.
+
+114
+00:11:38,654 --> 00:11:42,148
+Denmark's regulator had issued reprimands, orders and a capital add-on.
+
+115
+00:11:42,148 --> 00:11:43,895
+Estonia had expelled the branch.
+
+116
+00:11:43,895 --> 00:11:45,991
+Danish prosecutors had charged and un-charged.
+
+117
+00:11:45,991 --> 00:11:57,172
+But the penalty that hurt, the guilty plea on a bank's criminal record, and the monitoring that came with it, all rested on one fact: the dollars had passed through New York.
+
+118
+00:11:57,172 --> 00:12:06,605
+Europe's largest laundering case was resolved under American law because European law had no comparable lever, and because nobody in the Nordics was inclined to pull one.
+
+119
+00:12:06,605 --> 00:12:08,702
+That should be uncomfortable in Brussels.
+
+120
+00:12:08,702 --> 00:12:10,449
+It has not obviously been.
+
+121
+00:12:10,849 --> 00:12:15,788
+The Estonian branch turned out to be a sample, not an outlier.
+
+122
+00:12:15,788 --> 00:12:35,131
+Swedbank, the largest bank in the Baltics, had run non-resident flows through the same corridors; its chief executive Birgitte Bonnesen was dismissed in March 2019 after saying on television that the bank had no Danske-style problem, and the Swedish regulator fined it four billion kronor in 2020.
+
+123
+00:12:35,131 --> 00:12:45,009
+Bonnesen was acquitted of misleading the market, then jailed for fifteen months on appeal, then fully cleared by Sweden's Supreme Court in April 2026.
+
+124
+00:12:45,009 --> 00:12:47,067
+SEB paid a billion kronor.
+
+125
+00:12:47,067 --> 00:13:01,471
+And Nordea, the region's largest bank, is on trial in Copenhagen over Russian clients between 2012 and 2015; in June 2026 prosecutors asked for six point six billion kroner, which would be Denmark's largest fine.
+
+126
+00:13:01,471 --> 00:13:02,706
+Nordea denies guilt.
+
+127
+00:13:02,706 --> 00:13:04,764
+Denmark, it seems, is learning.
+
+128
+00:13:05,164 --> 00:13:05,903
+For scale.
+
+129
+00:13:05,903 --> 00:13:16,621
+Danske's total, just over two billion dollars, is by some distance the largest anti-money-laundering penalty ever paid by a Nordic bank, and among the largest by any bank anywhere.
+
+130
+00:13:16,621 --> 00:13:21,795
+Swedbank's four billion kronor and SEB's one billion were, at the time, Swedish records.
+
+131
+00:13:21,795 --> 00:13:29,556
+The Nordea demand of six point six billion kroner, roughly a billion dollars, would be Denmark's, if a court grants it.
+
+132
+00:13:29,556 --> 00:13:41,012
+Set these against two hundred billion euros of flows and the ratio is around one percent, before you subtract the share of that two hundred billion which was legitimate trade finance.
+
+133
+00:13:41,012 --> 00:13:42,491
+Nobody knows that share.
+
+134
+00:13:42,491 --> 00:13:45,078
+That, in the end, is the finding.
+
+135
+00:13:45,478 --> 00:13:46,128
+Our position.
+
+136
+00:13:46,128 --> 00:13:50,355
+Danske Bank Estonia was not a rogue branch that fooled a diligent parent.
+
+137
+00:13:50,355 --> 00:14:01,410
+It was a portfolio bought by accident, left off the group's own systems by choice, tolerated because it was profitable, and closed only when a British trader and a Danish newspaper made tolerance impossible.
+
+138
+00:14:01,410 --> 00:14:12,141
+The reputational asset that let it operate, the presumption that a Nordic bank does not do this, was the thing being rented out, at a fee, to customers who needed exactly that presumption.
+
+139
+00:14:12,141 --> 00:14:20,595
+And when the reckoning came, it was an American prosecutor who imposed it, on the company, while every executive who had held the pen was cleared.
+
+140
+00:14:20,595 --> 00:14:23,521
+Danish law was not equal to a Danish bank.
+
+141
+00:14:23,521 --> 00:14:27,748
+That is a policy finding, not a moral one, and it remains open.
+
+142
+00:14:28,148 --> 00:14:53,863
+Every figure in this video comes, where possible, from primary documents: the Bruun & Hjejle report of September 2018, Danske Bank's own investigations page and stock exchange announcements, the US Department of Justice and SEC resolutions of December 2022, the Estonian and Danish regulators' orders, and court reporting from Denmark, Estonia and Sweden by Reuters, Bloomberg, ERR, Berlingske and the OCCRP.
+
+143
+00:14:53,863 --> 00:14:58,078
+The full numbered list, with links, is in the description.
+
+144
+00:14:58,078 --> 00:15:03,558
+Where a figure is approximate or contested, we have said so on screen.
+
+145
+00:15:03,958 --> 00:15:06,926
+That is the Danske Bank Estonia ledger, so far.
+
+146
+00:15:06,926 --> 00:15:16,157
+We will update it when the Eastern High Court rules on the shareholder claims, when the Tallinn trial concludes and when Copenhagen City Court decides what Nordea owes.
+
+147
+00:15:16,157 --> 00:15:31,983
+If you found this useful, subscribing helps us make the next one, about a Nordic company that did not launder money for a dictator's family but paid it: Telia, Sweden's part-state-owned telecoms group, and the nine hundred and sixty-five million dollars it took to settle the Uzbekistan affair.
+
+148
+00:15:31,983 --> 00:15:33,961
+Until then, thank you for watching.
+

@@ -1,0 +1,5 @@
+001-northvolt
+002-wirecard
+003-nokia
+004-danske-bank-estonia
+008-telia-uzbekistan

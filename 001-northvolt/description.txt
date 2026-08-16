@@ -1,0 +1,35 @@
+How a Swedish startup founded by two ex-Tesla executives raised roughly $15 billion from Volkswagen, Goldman Sachs and Nordic pension funds, built a gigafactory near the Arctic Circle, shipped less than half a percent of its promised output, and became the largest bankruptcy in modern Swedish history.
+
+▶ Chapters
+0:00 Bankruptcy day, 12 March 2025
+1:13 Two ex-Tesla founders and a very Swedish idea
+2:39 Fifteen billion dollars: who paid, and for what
+5:21 Skellefteå: the plant that could not ramp
+8:11 2024, BMW, Chapter 11 and the creditor list
+10:20 Aftermath: the trustee, Lyten and the data centre
+11:50 China, scale, and what Europe got wrong
+14:06 Sources and next time
+
+▶ How this video was made
+The Nordic Ledger is an independent channel. This script was researched, written and edited with human editorial judgement; AI tools were used to assist with research, drafting and production. The narration is an AI-generated voice. If you spot an error, tell us in the comments and we will pin a correction.
+
+▶ Sources
+1. Northvolt press release, "Northvolt files for bankruptcy in Sweden", 12 March 2025 — https://northvolt.com/articles/northvolt-files-for-bankruptcy-in-sweden/
+2. Ackordscentralen, interview with trustee Mikael Kubu ("Glad att Northvolt inte blev ett rostigt monument"), 2026 — https://ackordscentralen.se/se/aktuellt/-glad-att-northvolt-inte-blev-ett-rostigt-monument-
+3. EFN, "Northvoltköpet genomförs: 'Största konkursen i modern tid'", Feb/Mar 2026 — https://efn.se/northvoltkopet-genomfors-storsta-konkursen-i-modern-tid
+4. Norran (English), "Northvolt files for bankruptcy – Busch says government 'to help'", 12 March 2025 — https://www.norran.se/english/skelleftea/artikel/northvolt-files-for-bankruptcy-busch-says-government-to-help/lzz87vgl
+5. Sifted, "From pioneer to bankruptcy: The rise and fall of Northvolt", March 2025 (founding, funding rounds, 79.8 MWh output, FT/DI quotes) — https://sifted.eu/articles/northvolt-bankrupt-sweden-tech-latest
+6. Sifted, "VW, Goldman and pension funds: Who has most on the line in Northvolt bankruptcy?", Nov 2024 (shareholders, AP funds, ATP, undisbursed public loans) — https://sifted.eu/articles/northvolt-bankruptcy-investors-creditors
+7. Northvolt press release, "$1 billion equity capital raise", 12 June 2019 — https://northvolt.com/articles/northvolt-completes-equity-capital-raise-to-enable-europes-first-homegrown-gigafactories-for-lithium-ion-batteries/
+8. Northvolt press release, "$5 billion for circular gigafactory", 16 January 2024 — https://northvolt.com/articles/northvolt-financing-january2024/
+9. Wikipedia, "Northvolt" (timeline cross-check: SGF Energy, first cell Dec 2021, employee deaths, Chapter 11 figures) — https://en.wikipedia.org/wiki/Northvolt
+10. Electrek / Handelsblatt / Manager Magazin, "BMW cancels $2 billion battery cell order from Northvolt", 20 June 2024 — https://electrek.co/2024/06/20/bmw-cancels-2-billion-battery-cell-order-from-northvolt/
+11. Norran (English), "Inside Northvolt's mess: busted tech and management missteps" (Chinese equipment, defects, cathode imports) — https://www.norran.se/english/skelleftea/artikel/inside-northvolts-mess-busted-tech-and-management-missteps/l6go29ej
+12. Fortune / Reuters, "Swedish battery champion Northvolt facing financial meltdown, CEO resigns", 22 Nov 2024 — https://fortune.com/europe/2024/11/22/swedish-battery-champion-northvolt-facing-financial-meltdown-ceo-resigns
+13. TechCrunch, "Battery unicorn Northvolt files for bankruptcy", 21 Nov 2024 (PitchBook $14.26bn raised, ~$100m monthly burn) — https://techcrunch.com/2024/11/21/battery-unicorn-northvolt-files-for-bankruptcy-upending-europes-industrial-plan/
+14. Reuters via Investing.com, "Factbox: Who are bankrupt Northvolt's creditors?" (Chapter 11 debt schedule) — https://investing.com/news/stock-market-news/factboxwho-are-bankrupt-northvolts-creditors-3737089
+15. Reuters via Investing.com, "Sweden's Northvolt files for bankruptcy, in blow to Europe's EV ambitions" (Busch: no plans to take stake; VW 21%) — https://www.investing.com/news/economy-news/swedens-northvolt-files-for-bankruptcy-in-blow-to-europes-ev-ambitions-3735832
+16. Fortune / FT, "Goldman Sachs funds take $900 million hit on Northvolt", 23 Nov 2024 — https://www.fortune.com/2024/11/23/northvolt-bankruptcy-goldman-sachs-funds-900-million-writedown
+17. Reuters via The Globe and Mail, "Volkswagen has taken major writedown on Northvolt stake, sources say", Nov 2024 — https://www.theglobeandmail.com/business/international-business/article-volkswagen-has-taken-major-writedown-on-northvolt-stake-sources-say/
+18. Bloomberg, "Northvolt Cuts Workforce to 1,700 as Part of Bankruptcy Process", 31 March 2025 — https://www.bloomberg.com/news/articles/2025-03-31/northvolt-cuts-workforce-to-1-700-as-part-of-bankruptcy-process
+19. Bloomberg, "Trustee of Bankrupt Northvolt Unit Says Board Liability Unlikely", 24 Sept 2025 — https://www.bloomberg.com/news/articles/2025-09-24/trustee-of-bankrup

@@ -1,0 +1,532 @@
+1
+00:00:00,200 --> 00:00:01,732
+Thursday, 18 June 2020.
+
+2
+00:00:01,732 --> 00:00:05,948
+Ten in the morning, Aschheim, on the eastern edge of Munich.
+
+3
+00:00:05,948 --> 00:00:10,546
+Wirecard AG, a member of Germany's DAX 30, publishes a short statement.
+
+4
+00:00:10,546 --> 00:00:22,043
+Its auditor, EY, cannot sign off on the 2019 accounts, because it has been unable to obtain sufficient evidence that €1.9 billion in cash held in trust accounts actually exists.
+
+5
+00:00:22,043 --> 00:00:30,857
+The chief executive, Markus Braun, adds that it "cannot be ruled out" that Wirecard has been "the victim of fraud of considerable proportions".
+
+6
+00:00:30,857 --> 00:00:35,072
+The share price loses roughly two-thirds of its value before lunch.
+
+7
+00:00:35,072 --> 00:00:44,653
+Within a week the company will be insolvent, the chief operating officer will have vanished, and Germany's financial regulator will have some explaining to do.
+
+8
+00:00:45,053 --> 00:00:49,094
+That line tells most of the story in one shape.
+
+9
+00:00:49,094 --> 00:00:57,985
+Wirecard was founded in 1999, survived the dot-com crash processing payments for online gambling and pornography, and reinvented itself as a "fintech".
+
+10
+00:00:57,985 --> 00:01:04,046
+By September 2018 it was worth about €24 billion at a share price near €191.
+
+11
+00:01:04,046 --> 00:01:11,320
+Then a downward staircase: each step is a Financial Times article, a regulator's intervention, or an auditor's report.
+
+12
+00:01:11,320 --> 00:01:14,553
+The final vertical drop is 18 June 2020.
+
+13
+00:01:14,553 --> 00:01:18,190
+Within weeks the shares traded for around a euro.
+
+14
+00:01:18,190 --> 00:01:28,698
+Note the rally in mid-2019: that is what happens when a regulator bans betting against a company and files criminal complaints against the people investigating it.
+
+15
+00:01:28,698 --> 00:01:31,122
+We will come back to that.
+
+16
+00:01:31,522 --> 00:01:40,744
+Markus Braun, an Austrian former KPMG consultant, took over as chief executive in 2002 and became the largest shareholder, holding around seven percent.
+
+17
+00:01:40,744 --> 00:01:48,763
+He wore black turtlenecks and spoke in the register of Silicon Valley, about artificial intelligence and "the digitalisation of everything".
+
+18
+00:01:48,763 --> 00:01:54,377
+Jan Marsalek, also Austrian, joined at 20 and was chief operating officer from 2010.
+
+19
+00:01:54,377 --> 00:02:08,009
+He ran the operational side, especially Asia, and the relationships with the "third-party acquirers" in Dubai, Manila and Singapore that would later turn out to be where most of the profit supposedly came from.
+
+20
+00:02:08,009 --> 00:02:09,613
+Braun sold the vision.
+
+21
+00:02:09,613 --> 00:02:11,217
+Marsalek supplied the numbers.
+
+22
+00:02:11,217 --> 00:02:15,627
+Between them sat a supervisory board that asked remarkably few questions.
+
+23
+00:02:16,027 --> 00:02:22,518
+The timeline runs from a Munich start-up to a fugitive in Moscow, but the interesting part is the middle.
+
+24
+00:02:22,518 --> 00:02:32,424
+Between the FT's first sceptical articles in 2015 and the collapse in 2020 lie five years in which the questions were public, specific and, as it turned out, correct.
+
+25
+00:02:32,424 --> 00:02:35,499
+What is notable is not that a fraud existed.
+
+26
+00:02:35,499 --> 00:02:36,182
+Frauds exist.
+
+27
+00:02:36,182 --> 00:02:43,014
+What is notable is how many institutions with the power to look, chose instead to look at the people asking.
+
+28
+00:02:43,414 --> 00:02:53,366
+On 24 September 2018, Wirecard entered the DAX, Germany's index of thirty blue chips, taking the place of Commerzbank, a bank founded in 1870.
+
+29
+00:02:53,366 --> 00:03:00,415
+The symbolism was irresistible and everybody used it: the old lender out, the young payments platform in.
+
+30
+00:03:00,415 --> 00:03:04,977
+At its peak, Wirecard's market value exceeded that of Deutsche Bank.
+
+31
+00:03:04,977 --> 00:03:11,611
+Germany, which had watched the internet economy happen mostly elsewhere, finally had a home-grown technology champion.
+
+32
+00:03:11,611 --> 00:03:12,855
+This mattered later.
+
+33
+00:03:12,855 --> 00:03:21,563
+Once a company becomes a national story, criticism of it starts to look, to certain officials, like criticism of the nation.
+
+34
+00:03:21,563 --> 00:03:23,637
+Wirecard's management leaned into that.
+
+35
+00:03:23,637 --> 00:03:28,613
+Sceptics were not analysts with a different view; they were foreign attackers.
+
+36
+00:03:29,013 --> 00:03:36,953
+The Financial Times had been publishing sceptical pieces since April 2015, in a series its Alphaville blog called "House of Wirecard".
+
+37
+00:03:36,953 --> 00:03:46,405
+Reporter Dan McCrum's early questions were about the accounts: gaps between reported cash and reported profit, and Asian acquisitions at prices that made little sense.
+
+38
+00:03:46,405 --> 00:03:48,674
+The response was not a rebuttal.
+
+39
+00:03:48,674 --> 00:03:57,748
+It was legal threats, surveillance and, as McCrum later documented in his book, a sustained effort to paint him as a co-conspirator of short-sellers.
+
+40
+00:03:57,748 --> 00:04:01,530
+Wirecard hired law firms and, it emerged, private intelligence operators.
+
+41
+00:04:01,530 --> 00:04:12,116
+This is worth stating plainly: the reporting was later shown to be substantially accurate, and the company's response to it was, in the end, part of the fraud.
+
+42
+00:04:12,516 --> 00:04:17,165
+The geography of Wirecard is the geography of distance from its auditors.
+
+43
+00:04:17,165 --> 00:04:19,876
+Munich for the headquarters and the listing.
+
+44
+00:04:19,876 --> 00:04:27,236
+Dublin and Dubai for subsidiaries whose profits, according to internal documents the FT published in October 2019, appeared inflated.
+
+45
+00:04:27,236 --> 00:04:39,631
+Singapore for the regional office where, in January 2019, the FT reported a senior executive was suspected of forging and backdating contracts, citing an internal legal review the company had sat on.
+
+46
+00:04:39,631 --> 00:04:43,892
+Manila for the two banks supposedly holding €1.9 billion in escrow.
+
+47
+00:04:43,892 --> 00:04:46,991
+And Vienna and Moscow for the last chapter.
+
+48
+00:04:46,991 --> 00:04:48,928
+The pattern is not subtle.
+
+49
+00:04:48,928 --> 00:04:50,865
+Revenue was booked in Germany.
+
+50
+00:04:50,865 --> 00:04:58,612
+Its supposed origins were always somewhere an auditor would need a visa and a great deal of patience to reach.
+
+51
+00:04:59,012 --> 00:05:02,870
+The mechanism deserves a minute, because it is not complicated.
+
+52
+00:05:02,870 --> 00:05:12,901
+In markets where Wirecard lacked a licence, it said it processed payments through third-party partners, who kept the customer money in trust accounts and remitted commissions.
+
+53
+00:05:12,901 --> 00:05:18,302
+Wirecard reported those commissions as revenue and the trust balances as its own cash.
+
+54
+00:05:18,302 --> 00:05:27,176
+KPMG's later investigation would find that this segment supplied, in the years 2016 to 2018, roughly the entire operating profit of the group.
+
+55
+00:05:27,176 --> 00:05:31,419
+So the real business, the licensed European card processing, was thin.
+
+56
+00:05:31,419 --> 00:05:45,308
+The profitable business was the part nobody could verify: partners with a handful of staff, in jurisdictions far away, holding cash in accounts that Wirecard's own auditor accepted on the strength of confirmations from those partners.
+
+57
+00:05:45,708 --> 00:05:51,022
+Now the part that makes this a German story rather than a generic one.
+
+58
+00:05:51,022 --> 00:05:58,992
+On 30 January 2019 the FT reported the Singapore forgery investigation; shares fell by around a quarter over the following days.
+
+59
+00:05:58,992 --> 00:06:13,415
+On 18 February the Federal Financial Supervisory Authority, BaFin, imposed a two-month ban on new short positions in Wirecard shares, the first time it had ever done so for a single company, citing a threat to market confidence.
+
+60
+00:06:13,415 --> 00:06:22,144
+On 16 April, BaFin filed a criminal complaint with Munich prosecutors against Dan McCrum and his colleague Stefania Palma, alleging possible market manipulation.
+
+61
+00:06:22,144 --> 00:06:29,355
+The regulator, in other words, had examined a fraud allegation and decided to investigate the people who made it.
+
+62
+00:06:29,755 --> 00:06:33,246
+Here is our view, and we will support it.
+
+63
+00:06:33,246 --> 00:06:38,289
+BaFin's conduct in 2019 was not merely a misjudgment; it was regulatory nationalism.
+
+64
+00:06:38,289 --> 00:06:47,210
+The evidence: BaFin had classified Wirecard as a technology company rather than a financial group, so it supervised only the small bank subsidiary.
+
+65
+00:06:47,210 --> 00:06:56,907
+It received a whistleblower tip in early 2019 and referred the accounts to the private accounting watchdog FREP, which assigned, famously, a single part-time examiner.
+
+66
+00:06:56,907 --> 00:07:03,113
+When the FT reported, BaFin's instinct was to defend the share price and pursue the foreigners.
+
+67
+00:07:03,113 --> 00:07:10,094
+Its president, Felix Hufeld, later called the affair a "complete disaster" and was pushed out in January 2021.
+
+68
+00:07:10,094 --> 00:07:14,361
+Munich prosecutors dropped the case against the journalists in September 2020.
+
+69
+00:07:14,361 --> 00:07:18,240
+By then there was no share price left to protect.
+
+70
+00:07:18,640 --> 00:07:32,147
+In October 2019 the FT published internal Wirecard documents suggesting that profits at units in Dubai and Dublin had been fraudulently inflated, and that customers named in the accounts had, in some cases, never heard of the arrangements.
+
+71
+00:07:32,147 --> 00:07:40,678
+Wirecard's response was to appoint KPMG to conduct an independent special audit, which it advertised as the thing that would finally silence the sceptics.
+
+72
+00:07:40,678 --> 00:07:49,564
+The company plainly expected a clean bill of health; so, presumably, did Softbank, which had put in €900 million through a convertible bond that spring.
+
+73
+00:07:49,564 --> 00:07:59,161
+In hindsight, engaging a second Big Four firm to look at what the first had been signing off for a decade was the mistake that ended it.
+
+74
+00:07:59,561 --> 00:08:06,457
+The KPMG report arrived on 28 April 2020, months late, and it was not what the company had ordered.
+
+75
+00:08:06,457 --> 00:08:19,524
+KPMG said it could not confirm that the third-party acquirer revenues for 2016 through 2018 were genuine, because it had been unable to obtain the documents, or in some cases the cooperation, needed to check them.
+
+76
+00:08:19,524 --> 00:08:21,702
+It cited "obstacles to the investigation".
+
+77
+00:08:21,702 --> 00:08:29,325
+Wirecard published it under a press release saying no evidence of balance-sheet manipulation had been found, which was a creative reading.
+
+78
+00:08:29,325 --> 00:08:32,591
+The shares fell by around a quarter that day.
+
+79
+00:08:32,591 --> 00:08:34,769
+Braun insisted everything was in order.
+
+80
+00:08:34,769 --> 00:08:42,029
+Marsalek, whose department generated most of the unanswerable questions, was quietly stripped of some duties in May, though not removed.
+
+81
+00:08:42,429 --> 00:08:45,437
+Which brings us back to the June morning.
+
+82
+00:08:45,437 --> 00:08:52,958
+EY, which had audited Wirecard since 2009 and had issued unqualified opinions every year, refused to sign the 2019 accounts.
+
+83
+00:08:52,958 --> 00:08:57,095
+The trust-account balances at two Philippine banks could not be confirmed.
+
+84
+00:08:57,095 --> 00:09:00,856
+Braun resigned the next day; Marsalek was suspended, then dismissed.
+
+85
+00:09:00,856 --> 00:09:11,761
+Bank of the Philippine Islands and BDO Unibank said the confirmation documents bearing their names were forged; the Philippine central bank said the money had never entered the country.
+
+86
+00:09:11,761 --> 00:09:16,650
+On 22 June the company admitted the €1.9 billion "probably does not exist".
+
+87
+00:09:16,650 --> 00:09:23,043
+Braun was arrested that evening in Munich, released on €5 million bail, and re-arrested a month later.
+
+88
+00:09:23,043 --> 00:09:28,684
+On 25 June, Wirecard filed for insolvency, the first DAX member ever to do so.
+
+89
+00:09:29,084 --> 00:09:31,698
+Jan Marsalek's exit is its own genre.
+
+90
+00:09:31,698 --> 00:09:37,673
+Suspended on 18 June, he told colleagues he was flying to Manila to locate the money.
+
+91
+00:09:37,673 --> 00:09:57,464
+Instead, according to the joint investigation by Der Spiegel, ZDF, Der Standard and The Insider published in March 2024, he was driven to a small airfield at Bad Vöslau, south of Vienna, on the night of 18 to 19 June, and flown by private jet to Minsk, then taken by car into Russia.
+
+92
+00:09:57,464 --> 00:10:03,439
+Austrian officials, including a former intelligence officer, have since been investigated over the help he received.
+
+93
+00:10:03,439 --> 00:10:07,920
+Manila immigration records were doctored to show him arriving in the Philippines.
+
+94
+00:10:07,920 --> 00:10:10,534
+He has not been seen publicly since.
+
+95
+00:10:10,534 --> 00:10:12,028
+Moscow does not extradite.
+
+96
+00:10:12,428 --> 00:10:14,990
+The 2024 reporting reframed the whole affair.
+
+97
+00:10:14,990 --> 00:10:32,924
+It alleged that Marsalek had been recruited by a GRU handler in 2014, had worked for Russian services for the better part of a decade while running the operations of a DAX company, and now lives in Moscow under the borrowed identity of a provincial Orthodox priest, passport included.
+
+98
+00:10:32,924 --> 00:10:46,466
+In London, six Bulgarian nationals were convicted at the Old Bailey of running a Russian surveillance operation from a Norfolk guesthouse on instructions relayed by Marsalek; sentences handed down in May 2025 totalled more than fifty years.
+
+99
+00:10:46,466 --> 00:10:53,054
+Whether the espionage was funded from Wirecard, or Wirecard was cover for it, no court has yet answered.
+
+100
+00:10:53,054 --> 00:10:56,713
+It does rather change what "third-party acquirer" might have meant.
+
+101
+00:10:57,113 --> 00:11:03,376
+The criminal trial opened on 8 December 2022 in a courtroom beneath Munich's Stadelheim prison.
+
+102
+00:11:03,376 --> 00:11:17,154
+Braun is charged with commercial gang fraud, falsifying the 2016 to 2018 accounts, market manipulation and breach of trust; prosecutors say roughly €3 billion in revenue was fabricated to keep bank credit flowing.
+
+103
+00:11:17,154 --> 00:11:22,164
+Oliver Bellenhaus, who ran the Dubai unit, confessed and testifies against him.
+
+104
+00:11:22,164 --> 00:11:28,009
+Braun says he was the victim of a gang run by Marsalek and Bellenhaus.
+
+105
+00:11:28,009 --> 00:11:35,942
+He has been on remand since July 2020, six years as of this recording, unusually long by German standards.
+
+106
+00:11:35,942 --> 00:11:42,622
+In February 2025 the indictment was cut from 43 counts to ten to speed things up.
+
+107
+00:11:42,622 --> 00:11:52,225
+As of July 2026, after more than 270 hearing days, closing arguments are scheduled from 19 October 2026, with a verdict to follow.
+
+108
+00:11:52,625 --> 00:11:55,225
+The consequences have arrived in instalments.
+
+109
+00:11:55,225 --> 00:12:10,397
+Germany's audit watchdog APAS fined EY €500,000 in April 2023 and barred it from taking on new audits of public-interest companies for two years, the heaviest sanction it had ever imposed, and reprimanded individual partners.
+
+110
+00:12:10,397 --> 00:12:32,937
+In September 2024, Munich Regional Court I ordered Braun, Marsalek and former chief accountant Stephan von Erffa to pay €140 million to the insolvency administrator over an unsecured €100 million loan and an unchecked bond purchase; that judgment is under appeal, and collecting from a defendant in Moscow is a theoretical exercise.
+
+111
+00:12:32,937 --> 00:12:35,538
+Shareholders' claims were ranked behind creditors.
+
+112
+00:12:35,538 --> 00:12:39,006
+BaFin's leadership was replaced and its powers expanded.
+
+113
+00:12:39,006 --> 00:12:45,074
+EY faces civil claims running to billions, in proceedings that will outlast this channel.
+
+114
+00:12:45,474 --> 00:12:47,020
+Our editorial position, restated.
+
+115
+00:12:47,020 --> 00:12:50,111
+Wirecard was a fraud designed by its perpetrators.
+
+116
+00:12:50,111 --> 00:12:59,770
+But its longevity was enabled by a regulatory culture that treated a listed company as something to defend and its critics as something to police.
+
+117
+00:12:59,770 --> 00:13:14,837
+When a regulator's first reflex on hearing a credible fraud allegation is to protect the share price and file a complaint against foreign journalists, that regulator has stopped functioning as a regulator and started functioning as an investor-relations department.
+
+118
+00:13:14,837 --> 00:13:19,860
+Germany has since reformed BaFin's mandate and given it direct forensic audit powers.
+
+119
+00:13:19,860 --> 00:13:21,019
+That is welcome.
+
+120
+00:13:21,019 --> 00:13:25,655
+It is also an admission of exactly what was missing in 2019.
+
+121
+00:13:26,055 --> 00:13:31,092
+Lest anyone in Copenhagen or Stockholm feel superior, a note for a future episode.
+
+122
+00:13:31,092 --> 00:13:48,361
+Around the same years, Danske Bank's Estonian branch was moving roughly €200 billion of suspicious money and Swedbank's Baltic operations were doing a smaller but similar trade, and in both cases the local supervisors were slow, polite and largely absent until journalists and a whistleblower did the work.
+
+123
+00:13:48,361 --> 00:13:54,117
+The Nordic version of the disease was not aggressive nationalism but a kind of trusting quietness.
+
+124
+00:13:54,117 --> 00:13:59,874
+The pathogen is the same: a supervisor that assumes its national institutions are the good ones.
+
+125
+00:13:59,874 --> 00:14:01,673
+We will get to Danske.
+
+126
+00:14:01,673 --> 00:14:07,069
+It is a longer story than this one, and the money, unlike Wirecard's, was real.
+
+127
+00:14:07,469 --> 00:14:27,944
+Everything in this episode is drawn from the public record: the Financial Times' reporting from 2015 onward, BaFin's own decrees, the KPMG special audit report, Wirecard's ad hoc disclosures, court reporting from Munich and London, and the 2024 Spiegel, ZDF, Standard and Insider investigation into Marsalek.
+
+128
+00:14:27,944 --> 00:14:31,950
+Where a number is approximate, the script says so.
+
+129
+00:14:31,950 --> 00:14:36,401
+Full numbered sources with URLs are in the description below.
+
+130
+00:14:36,801 --> 00:14:42,970
+That is the Wirecard file, as it stands in August 2026; we will update when the Munich court rules.
+
+131
+00:14:42,970 --> 00:14:50,762
+If this was useful, subscribing helps the channel more than you would think, and the comments are open for corrections, which we do read.
+
+132
+00:14:50,762 --> 00:15:00,177
+Next time, something less criminal and arguably more painful: Nokia, and how the company that put a phone in every pocket managed to hand the pocket to someone else.
+
+133
+00:15:00,177 --> 00:15:02,450
+Thank you for watching The Nordic Ledger.
+

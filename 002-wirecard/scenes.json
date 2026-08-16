@@ -1,0 +1,128 @@
+[
+ {
+  "n": 1,
+  "type": "title",
+  "start": 0.0,
+  "dur": 44.85
+ },
+ {
+  "n": 2,
+  "type": "chart",
+  "start": 44.85,
+  "dur": 46.47
+ },
+ {
+  "n": 3,
+  "type": "text",
+  "start": 91.32,
+  "dur": 44.5
+ },
+ {
+  "n": 4,
+  "type": "timeline",
+  "start": 135.83,
+  "dur": 27.39
+ },
+ {
+  "n": 5,
+  "type": "text",
+  "start": 163.21,
+  "dur": 45.6
+ },
+ {
+  "n": 6,
+  "type": "quote",
+  "start": 208.81,
+  "dur": 43.5
+ },
+ {
+  "n": 7,
+  "type": "map",
+  "start": 252.32,
+  "dur": 46.5
+ },
+ {
+  "n": 8,
+  "type": "text",
+  "start": 298.81,
+  "dur": 46.7
+ },
+ {
+  "n": 9,
+  "type": "text",
+  "start": 345.51,
+  "dur": 44.05
+ },
+ {
+  "n": 10,
+  "type": "quote",
+  "start": 389.56,
+  "dur": 48.88
+ },
+ {
+  "n": 11,
+  "type": "text",
+  "start": 438.44,
+  "dur": 40.92
+ },
+ {
+  "n": 12,
+  "type": "quote",
+  "start": 479.36,
+  "dur": 42.87
+ },
+ {
+  "n": 13,
+  "type": "text",
+  "start": 522.23,
+  "dur": 46.66
+ },
+ {
+  "n": 14,
+  "type": "map",
+  "start": 568.88,
+  "dur": 43.34
+ },
+ {
+  "n": 15,
+  "type": "text",
+  "start": 612.23,
+  "dur": 44.69
+ },
+ {
+  "n": 16,
+  "type": "text",
+  "start": 656.91,
+  "dur": 55.51
+ },
+ {
+  "n": 17,
+  "type": "text",
+  "start": 712.43,
+  "dur": 52.85
+ },
+ {
+  "n": 18,
+  "type": "quote",
+  "start": 765.27,
+  "dur": 40.58
+ },
+ {
+  "n": 19,
+  "type": "text",
+  "start": 805.86,
+  "dur": 41.41
+ },
+ {
+  "n": 20,
+  "type": "sources",
+  "start": 847.27,
+  "dur": 29.33
+ },
+ {
+  "n": 21,
+  "type": "outro",
+  "start": 876.6,
+  "dur": 26.05
+ }
+]

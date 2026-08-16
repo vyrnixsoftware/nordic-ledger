@@ -1,0 +1,32 @@
+Everyone knows Nokia missed the iPhone. Fewer know that at its peak Nokia was four percent of Finland's GDP, a fifth of its exports and nearly a quarter of its corporate tax, and that when the handset business collapsed, Finland did not. Around 1,000 startups from one severance scheme, Supercell, Wolt, a €2.85 billion games industry, and a €20 billion networks company few people notice: this is the Finnish-insider account of the rarest thing in business, a national champion whose fall left the country better off.
+
+▶ Chapters
+0:00 11 February 2011, London, and the memo
+1:05 What Nokia was to Finland: GDP, exports, tax, R&D
+3:08 Symbian, MeeGo and the jump to Windows Phone
+4:50 Nokia Bridge and the Microsoft sale
+6:16 Finland's lost decade, in tax receipts
+7:37 The diaspora: Supercell, Rovio, Wolt and Slush
+9:20 The company that kept the name: Alcatel-Lucent, HMD, Infinera, Nvidia
+11:45 Our view, and what the case does not prove
+13:26 Sources and next time
+
+▶ How this video was made
+The Nordic Ledger is an independent channel. This script was researched, written and edited with human editorial judgement; AI tools were used to assist with research, drafting and production. The narration is an AI-generated voice. If you spot an error, tell us in the comments and we will pin a correction.
+
+▶ Sources
+1. ETLA (Research Institute of the Finnish Economy), Jyrki Ali-Yrkkö (ed.), "Nokia and Finland in a Sea of Change", 2010 (Nokia 4% of GDP in 2000; 23% of corporate tax 2003, 9% 2008, 2.5% 2009; 36.9% of Finnish R&D and 49.7% of business R&D 2008; 0.9% of employment) — https://www.etla.fi/wp-content/uploads/2012/09/B244.pdf
+2. Yle, "Nokia is 3.5% of Finnish GDP", 17 Oct 2004 (ETLA estimate for 2004) — https://yle.fi/a/3-5193369
+3. World Economic Forum, "What's happening to Finland's economy?", July 2015 (Nokia ~4% of GDP in 2000, under 0.5% in 2013; four years of stagnation) — https://www.weforum.org/stories/2015/07/whats-happening-to-finland-economy/
+4. Coppola Comment, "A Finnish cautionary tale", Aug 2015 (European Commission: handsets 13% of goods exports 2000 to 1% 2013; half of lost export market share) — https://www.coppolacomment.com/2015/08/a-finnish-cautionary-tale.html
+5. Herman Mark Schwartz, "The Nokia Risk", Phenomenal World (Nokia ~20% of exports; current account ~7% of GDP; real per-capita income +55% 1995–2007, decline 2008–2019) — https://phenomenalworld.org/analysis/nokia-risk/
+6. Bruegel, "Finland and asymmetric shocks" (export market share down a third since 2008; paper, Russia, demographics) — https://www.bruegel.org/blog-post/finland-and-asymmetric-shocks
+7. IMF Working Paper WP/21/258, "Knowledge Spillovers From Superstar Tech-Firms: The Case of Nokia", 2021 (R&D ~€6bn peak 2008; ~25,000 leavers 2008–2017; spillover effects on hiring firms; no startup-creation effect) — https://www.imf.org/-/media/Files/Publications/WP/2021/English/wpiea2021258-print-pdf.ashx
+8. ETLA Reports 10, "Nokia's Labor Inflows and Outflows in Finland: Observations from 1989 to 2010" (peak Finnish headcount ~25,000–26,000; no startup spike 2008–10; boom in 2011–12) — https://www.etla.fi/wp-content/uploads/ETLA-Raportit-Reports-10.pdf
+9. Silicon Canals, "How did a Nordic company that started by making rubber boots... become the world's biggest mobile phone maker by 2000, then lose almost all of it" (€303bn market cap 2000; 437m phones and ~40% share 2007; 2004 touchscreen prototype; smartphone share ~a third 2010 to <3% 2013) — https://siliconcanals.com/sc-q-how-did-a-nordic-company-that-started-by-making-rubber-boots-and-paper-pulp-become-the-worlds-biggest-mobile-phone-maker-by-2000-then-lose-almost-all-of-it-inside-seven-years/
+10. Wikipedia, "History of Nokia" (1865 Idestam, 1868 Nokia mill, 1898 Finnish Rubber Works, 1967 merger, Nokia 1011 in 1992, Nokia tune 1994, Microsoft closing 25 April 2014) — https://en.wikipedia.org/wiki/History_of_Nokia
+11. Engadget, "Nokia CEO Stephen Elop rallies troops in brutally honest 'burning platform' memo", 8 Feb 2011 (full memo text) — https://www.engadget.com/2011-02-08-nokia-ceo-stephen-elop-rallies-troops-in-brutally-honest-burnin.html
+12. Forbes, "Nokia And Microsoft Announce Strategic Partnership", 11 Feb 2011 (London; Symbian as 'franchise', ~150m more units; one MeeGo device) — https://www.forbes.com/sites/parmyolson/2011/02/11/nokia-and-microsoft-announce-strategic-partnership/
+13. Fortune, "'Noksoft' born: Nokia moves to Windows, takes on Google and Apple", 11 Feb 2011 (Elop: "we fell behind, we missed big trends") — https://fortune.com/2011/02/11/noksoft-born-nokia-moves-to-windows-takes-on-google-and-apple
+14. GSMArena, "Nokia moves 3000 Symbian devs to Accenture, to lay off 4000 other employees", April 2011 — https://m.gsmarena.com/nokia_transfers_3000_symbian_devs_to_accenture_4000_employees_lose_their_jobs-news-2566.php
+15. Wikipedia, "Jolla" (founded Oct 2011 by ex-Nokia MeeGo staff; Bridge grants; Sailfish OS; 2024 bankruptcy of original entity) — https:/
