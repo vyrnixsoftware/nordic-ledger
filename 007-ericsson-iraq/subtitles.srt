@@ -1,0 +1,556 @@
+1
+00:00:00,200 --> 00:00:01,880
+Sunday, 27 February 2022.
+
+2
+00:00:01,880 --> 00:00:16,582
+The International Consortium of Investigative Journalists, Swedish public television and twenty-eight other newsrooms publish the Ericsson List: a leaked internal investigation into what the Swedish network builder had done in Iraq between 2011 and 2019.
+
+3
+00:00:16,582 --> 00:00:29,184
+Its findings: sham contracts, cash moved through suppliers, tens of millions of dollars to fixers with unclear roles, and payments for lorry routes through territory then held by Islamic State.
+
+4
+00:00:29,184 --> 00:00:40,105
+Ericsson had known all this since 2019, the year it paid the United States just over a billion dollars for bribery elsewhere and promised full disclosure.
+
+5
+00:00:40,105 --> 00:00:41,786
+Iraq was not disclosed.
+
+6
+00:00:41,786 --> 00:00:48,087
+To understand why the second offence cost more than the first, go back to 1876.
+
+7
+00:00:48,487 --> 00:00:53,797
+That was the chief executive, eleven days before publication, trying to get ahead of the story.
+
+8
+00:00:53,797 --> 00:01:05,413
+Not a denial: an admission that money left the company for passage through Islamic State ground, and that, in his words, "with the means we have, we haven't been able to determine the final recipients".
+
+9
+00:01:05,413 --> 00:01:09,395
+The shares fell seven percent that morning, with far worse to come.
+
+10
+00:01:09,395 --> 00:01:22,007
+And the sentence had a second problem: Ekholm was describing a report finished in 2019, in the same months his lawyers were negotiating a settlement with Washington that required him to hand over exactly this kind of thing.
+
+11
+00:01:22,407 --> 00:01:23,530
+The company itself.
+
+12
+00:01:23,530 --> 00:01:35,883
+Lars Magnus Ericsson opened a workshop for repairing telegraph instruments in Stockholm in April 1876, thirteen square metres and one assistant, and within a decade was making telephones better than the American originals.
+
+13
+00:01:35,883 --> 00:01:45,616
+A hundred and fifty years on, LM Ericsson is one of three companies on earth that can build a national mobile network, with Nokia and Huawei.
+
+14
+00:01:45,616 --> 00:01:56,471
+Its headquarters sit in Kista, a suburb of office blocks that Stockholm's boosters call Wireless Valley, which is what a Swedish municipality does when it wants to sound Californian.
+
+15
+00:01:56,471 --> 00:01:59,840
+Ericsson sells in about a hundred and eighty countries.
+
+16
+00:01:59,840 --> 00:02:05,081
+In perhaps a dozen of them, for two decades, it did not only sell.
+
+17
+00:02:05,481 --> 00:02:07,459
+The geography of this ledger.
+
+18
+00:02:07,459 --> 00:02:10,625
+Stockholm and Kista, where decisions were signed off.
+
+19
+00:02:10,625 --> 00:02:19,725
+Djibouti, Beijing, Hanoi, Jakarta and Kuwait City: the five markets in the 2019 American settlement, where the payments ran from 2000 to 2016.
+
+20
+00:02:19,725 --> 00:02:30,803
+Baghdad, Erbil and Mosul: Iraq, where a second set of payments ran from 2011 to 2019, and where the road between Erbil and Mosul crossed a front line.
+
+21
+00:02:30,803 --> 00:02:43,465
+And New York and Washington, because Ericsson's shares trade on Nasdaq in New York as well as Stockholm, its dollars clear through American banks, and the Foreign Corrupt Practices Act therefore applies.
+
+22
+00:02:43,465 --> 00:02:48,608
+Every penalty in this story was collected on the right of this map.
+
+23
+00:02:49,008 --> 00:02:56,568
+The first ledger, as set out in the papers Ericsson signed with the Department of Justice on 6 December 2019.
+
+24
+00:02:56,568 --> 00:03:04,128
+In Djibouti, a consultancy contract that moved about two million dollars to the president's circle for a twenty-million-euro 3G deal.
+
+25
+00:03:04,128 --> 00:03:14,334
+In China, sixteen years of agents, gifts, a travel account for officials of the state operators, and thirty-one and a half million dollars for services nobody performed.
+
+26
+00:03:14,334 --> 00:03:21,515
+In Vietnam and Indonesia, consultants who passed close to fifty million dollars into funds the books did not show.
+
+27
+00:03:21,515 --> 00:03:27,185
+In Kuwait, four hundred and fifty thousand dollars for a look at the tender documents.
+
+28
+00:03:27,185 --> 00:03:29,831
+Five countries, seventeen years, "high-level executives" throughout.
+
+29
+00:03:29,831 --> 00:03:31,343
+The bribes were cheap.
+
+30
+00:03:31,343 --> 00:03:35,879
+The American formula charges the profit they bought, then adds a fine.
+
+31
+00:03:36,279 --> 00:03:37,002
+The terms.
+
+32
+00:03:37,002 --> 00:03:50,732
+A three-year deferred prosecution agreement for the parent; a guilty plea for the Egyptian subsidiary; five hundred and twenty million dollars to the Justice Department and roughly five hundred and forty million to the Securities and Exchange Commission.
+
+33
+00:03:50,732 --> 00:03:56,152
+One point zero six billion dollars, then among the largest foreign-bribery resolutions in American history.
+
+34
+00:03:56,152 --> 00:04:02,294
+It got a cooperation discount of only fifteen percent, because prosecutors thought its disclosure slow and incomplete.
+
+35
+00:04:02,294 --> 00:04:10,243
+And it accepted a compliance monitor, installed in the building for three years to check that the promise of reform was real.
+
+36
+00:04:10,243 --> 00:04:13,856
+That monitor was still there when the ICIJ came calling.
+
+37
+00:04:14,256 --> 00:04:15,794
+The second act, compressed.
+
+38
+00:04:15,794 --> 00:04:18,101
+The monitor arrived in June 2020.
+
+39
+00:04:18,101 --> 00:04:20,023
+For twenty months, nothing public.
+
+40
+00:04:20,023 --> 00:04:28,097
+Then, in February 2022, journalists began asking questions and the company put out a statement it had never planned to write.
+
+41
+00:04:28,097 --> 00:04:32,710
+The DOJ declared the agreement breached within days of the ICIJ story.
+
+42
+00:04:32,710 --> 00:04:37,324
+Shareholders refused to discharge the board that spring, and again the next.
+
+43
+00:04:37,324 --> 00:04:42,322
+In March 2023 Ericsson pleaded guilty to the original charges and paid again.
+
+44
+00:04:42,322 --> 00:04:45,782
+The monitor stayed an extra year, until June 2024.
+
+45
+00:04:45,782 --> 00:04:48,858
+The SEC closed its Iraq file that September.
+
+46
+00:04:48,858 --> 00:04:53,087
+The Justice Department, as of the company's own filings, has not.
+
+47
+00:04:53,487 --> 00:05:06,092
+Iraq was a real business: nearly two billion dollars of sales in eight years to the country's three mobile operators, one of them, Korek, controlled by the Barzani family of Iraqi Kurdistan.
+
+48
+00:05:06,092 --> 00:05:11,213
+The internal report, run with the law firm Simpson Thacher, is a catalogue.
+
+49
+00:05:11,213 --> 00:05:13,970
+Suppliers who existed to hand over cash.
+
+50
+00:05:13,970 --> 00:05:15,940
+Consultants with no defined scope.
+
+51
+00:05:15,940 --> 00:05:20,667
+A contractor called Al-Awsat that received seventy-nine million dollars over eight years.
+
+52
+00:05:20,667 --> 00:05:22,636
+Staff who obstructed the investigators.
+
+53
+00:05:22,636 --> 00:05:30,908
+And when the reviewers finished, in 2019, the company exited several employees, tightened its procedures, and told nobody outside the building.
+
+54
+00:05:30,908 --> 00:05:37,211
+Not the exchange, not the shareholders, and, decisively, not the prosecutors it was then negotiating with.
+
+55
+00:05:37,611 --> 00:05:40,370
+The passage that made this an international story.
+
+56
+00:05:40,370 --> 00:05:45,197
+From 2014 Islamic State held Mosul and much of the road network around it.
+
+57
+00:05:45,197 --> 00:05:47,611
+Ericsson still had customers with towers there.
+
+58
+00:05:47,611 --> 00:05:57,612
+The internal report describes a route staff called the Speedway, on which equipment moved by lorry, avoiding Iraqi customs, through ground where the tolls were collected by armed men.
+
+59
+00:05:57,612 --> 00:06:02,784
+Who received the money, the reviewers could not say, nor could they exclude Islamic State.
+
+60
+00:06:02,784 --> 00:06:10,026
+One employee describes being sent to the group with a letter asking permission to operate, and being held for a month.
+
+61
+00:06:10,026 --> 00:06:15,543
+Ericsson's position, then and now, is that no employee was found to have directly financed terrorism.
+
+62
+00:06:15,543 --> 00:06:16,233
+Precisely worded.
+
+63
+00:06:16,233 --> 00:06:20,026
+Not the same as saying none of the money got there.
+
+64
+00:06:20,426 --> 00:06:24,394
+Watch the sequence, because it is the whole case for the prosecution.
+
+65
+00:06:24,394 --> 00:06:31,998
+Ericsson said nothing about Iraq for two and a half years, then, told journalists had the report, published a summary in a week.
+
+66
+00:06:31,998 --> 00:06:42,578
+On 2 March it admitted the Justice Department had ruled that it failed to disclose sufficient information about Iraq before signing the 2019 deal, and afterwards: a breach of the deal itself.
+
+67
+00:06:42,578 --> 00:06:49,190
+Between the first media inquiry and that admission the shares went from just over a hundred kronor to under eighty.
+
+68
+00:06:49,190 --> 00:06:51,505
+A Stockholm analyst used the word "uninvestable".
+
+69
+00:06:51,505 --> 00:06:54,811
+The concealment had cost the company more than the conduct.
+
+70
+00:06:55,211 --> 00:06:58,546
+Ekholm is not an outsider who inherited a mess.
+
+71
+00:06:58,546 --> 00:07:15,593
+He ran Investor AB, the Wallenberg family's holding company, for a decade, sat on Ericsson's board from 2006 through the years the Djibouti and China payments were being made, and was installed as chief executive in 2017 to fix a company losing money and market share.
+
+72
+00:07:15,593 --> 00:07:17,446
+On the numbers, he did.
+
+73
+00:07:17,446 --> 00:07:25,228
+So when Iraq surfaced, the two houses of Swedish capital that control the votes, Investor and Industrivärden, backed him without qualification.
+
+74
+00:07:25,228 --> 00:07:31,898
+His defence: the monitor knew the substance, and publishing would have exposed the people who spoke to investigators.
+
+75
+00:07:31,898 --> 00:07:34,493
+The Justice Department did not accept that.
+
+76
+00:07:34,493 --> 00:07:37,087
+Neither did a tenth of his shareholders.
+
+77
+00:07:37,487 --> 00:07:46,272
+Sweden has a ritual the Anglo-Saxon world lacks: once a year shareholders vote to release the board from liability for the year just gone.
+
+78
+00:07:46,272 --> 00:07:48,102
+It is normally waved through.
+
+79
+00:07:48,102 --> 00:07:58,718
+In March 2022 Cevian Capital, an activist with five percent, said it had "no choice but to hold the entire board accountable"; Norway's sovereign fund and Swedbank Robur followed.
+
+80
+00:07:58,718 --> 00:08:06,405
+Discharge was refused for the entire board and for Ekholm personally, a rebuke almost without precedent for a company this size.
+
+81
+00:08:06,405 --> 00:08:12,628
+Then, in the same meeting, all were re-elected, because the Wallenberg and Industrivärden A shares said so.
+
+82
+00:08:12,628 --> 00:08:14,824
+A year later it happened again.
+
+83
+00:08:14,824 --> 00:08:15,922
+The chairman went.
+
+84
+00:08:15,922 --> 00:08:17,753
+The chief executive did not.
+
+85
+00:08:17,753 --> 00:08:19,217
+Nobody has yet sued.
+
+86
+00:08:19,617 --> 00:08:37,834
+On 2 March 2023, a year to the day after admitting the breach, Ericsson pleaded guilty in Manhattan to the two conspiracy counts the 2019 agreement had deferred: to violate the anti-bribery provisions of the Foreign Corrupt Practices Act, and to violate its books-and-records and internal-controls provisions.
+
+87
+00:08:37,834 --> 00:08:47,524
+That is the significance of a breached DPA: the original crimes come back, and attach as convictions to the parent, not a subsidiary in Egypt.
+
+88
+00:08:47,524 --> 00:08:57,215
+The Justice Department listed three failures: Iraq, never reported; Djibouti, where evidence was withheld; and China, where the details of agent payments were held back.
+
+89
+00:08:57,215 --> 00:09:03,029
+Ericsson had, in the prosecutor's phrase, breached the agreement it signed to avoid exactly this.
+
+90
+00:09:03,429 --> 00:09:08,299
+Two hundred and six point seven million dollars, on top of the billion.
+
+91
+00:09:08,299 --> 00:09:10,921
+Not for new bribes: for not telling.
+
+92
+00:09:10,921 --> 00:09:24,782
+The monitor stayed a further year and in March 2024 signed off on the compliance programme; on 2 June 2024 Ericsson announced that monitorship and plea agreement had ended, Ekholm calling its commitment to integrity "rock solid".
+
+93
+00:09:24,782 --> 00:09:30,026
+The SEC told Ericsson in September 2024 it would take no action over Iraq.
+
+94
+00:09:30,026 --> 00:09:40,516
+The Justice Department's own Iraq inquiry, the one that would ask where the Speedway money went, is described in the company's filings as ongoing, scope and duration uncertain.
+
+95
+00:09:40,516 --> 00:09:46,509
+Under an administration that paused new FCPA enforcement in 2025, that may be where it stays.
+
+96
+00:09:46,909 --> 00:09:48,328
+Now the Swedish column.
+
+97
+00:09:48,328 --> 00:09:49,747
+Prosecutors did try, once.
+
+98
+00:09:49,747 --> 00:10:02,873
+Four former employees stood trial in Solna over Djibouti and were acquitted in June 2022, on the ground that it was not proven the officials had received the money the Americans had already fined Ericsson for paying.
+
+99
+00:10:02,873 --> 00:10:05,356
+The China inquiry was dropped that November.
+
+100
+00:10:05,356 --> 00:10:15,289
+The stock exchange decided a reasonable investor would not have needed the 2019 report, which the reasonable investors who lost a third of their money may find interesting.
+
+101
+00:10:15,289 --> 00:10:20,610
+If you watched our Telia film, this is familiar: same country, same law, same result.
+
+102
+00:10:20,610 --> 00:10:24,158
+Swedish bribery law wants a named official and a receipt.
+
+103
+00:10:24,158 --> 00:10:29,124
+American law wants a wire transfer through New York, and gets one every time.
+
+104
+00:10:29,524 --> 00:10:32,243
+Where one point two seven billion dollars went.
+
+105
+00:10:32,243 --> 00:10:33,603
+Every cent to Washington.
+
+106
+00:10:33,603 --> 00:10:38,021
+Nothing to Stockholm, which houses the company, its board and its founder's workshop.
+
+107
+00:10:38,021 --> 00:10:43,120
+Nothing to the six countries whose officials were bought and whose citizens paid the mark-up.
+
+108
+00:10:43,120 --> 00:10:51,277
+That is how the American system works: penalties are sized on the profits of the bribe and kept by the Treasury that collected them.
+
+109
+00:10:51,277 --> 00:10:54,336
+It is also, we would suggest, a Swedish choice.
+
+110
+00:10:54,336 --> 00:10:57,734
+Sweden had every fact the Americans had, and produced acquittals.
+
+111
+00:10:57,734 --> 00:11:01,813
+For the second Swedish telecom icon in five years, discipline was imported.
+
+112
+00:11:02,213 --> 00:11:17,756
+While the lawyers were busy, Ekholm made his largest strategic bet: six point two billion dollars for Vonage, an American cloud-communications company, meant to turn Ericsson from a seller of base stations into a seller of network software to app developers.
+
+113
+00:11:17,756 --> 00:11:21,926
+It closed in July 2022, four months after the DPA breach.
+
+114
+00:11:21,926 --> 00:11:32,919
+Within fifteen months Ericsson had written off nearly three billion dollars of it; within two years, four billion, some two-thirds of the price, and the shares touched fifty kronor.
+
+115
+00:11:32,919 --> 00:11:40,880
+In August 2026 the company installed a new chief executive there and Ekholm conceded that the business "has not been contributing".
+
+116
+00:11:40,880 --> 00:11:43,913
+The Iraq penalty was two hundred million dollars.
+
+117
+00:11:43,913 --> 00:11:45,808
+Vonage cost twenty times that.
+
+118
+00:11:45,808 --> 00:11:48,083
+Nobody was denied discharge for it.
+
+119
+00:11:48,483 --> 00:11:53,152
+The company today is smaller than it hoped and healthier than it feared.
+
+120
+00:11:53,152 --> 00:12:05,364
+Second-quarter sales of fifty-two point seven billion kronor, down six percent, but gross margins near forty-eight percent, net cash of sixty billion and a share price back near its pre-Iraq level, helped by buybacks.
+
+121
+00:12:05,364 --> 00:12:19,373
+In June the board announced that Börje Ekholm would leave on 30 September 2026, after nine years as chief executive and twenty as a director, replaced by Per Narvinger, a company man since 1997 who runs the networks business.
+
+122
+00:12:19,373 --> 00:12:24,761
+The board called it "a well prepared and orderly succession", which is what boards say.
+
+123
+00:12:24,761 --> 00:12:32,304
+Ekholm survived a scandal that would have removed most European chief executives, and leaves with the shares where he found them.
+
+124
+00:12:32,704 --> 00:12:33,409
+Our position.
+
+125
+00:12:33,409 --> 00:12:36,938
+The bribes are the least surprising part of this ledger.
+
+126
+00:12:36,938 --> 00:12:47,525
+Ericsson sells to state operators in states where a licence is a favour, and did what that market rewarded, from Beijing to Djibouti, under three chief executives, for twenty years.
+
+127
+00:12:47,525 --> 00:13:02,700
+What separates it from the ordinary run of FCPA cases is 2019 to 2022: a company that had just paid a billion dollars, with a monitor in the building, decided a report on Islamic State-adjacent payments was not something Washington needed in writing.
+
+128
+00:13:02,700 --> 00:13:08,347
+That judgement was wrong by two hundred million dollars and a third of the market value.
+
+129
+00:13:08,347 --> 00:13:12,228
+Sweden held a trial it lost and a review it closed.
+
+130
+00:13:12,228 --> 00:13:13,993
+Discipline came, again, from abroad.
+
+131
+00:13:13,993 --> 00:13:15,405
+Ownership protected the man.
+
+132
+00:13:15,405 --> 00:13:17,522
+It did not protect the owners.
+
+133
+00:13:17,922 --> 00:13:35,647
+Every figure in this video comes, where possible, from primary documents: the Department of Justice and SEC resolutions of December 2019, the plea of March 2023, Ericsson's own statements and quarterly reports, the ICIJ's Ericsson List reporting with SVT and its partners, and Swedish court and prosecutor announcements.
+
+134
+00:13:35,647 --> 00:13:39,340
+The full numbered list, with links, is in the description.
+
+135
+00:13:39,340 --> 00:13:48,572
+Where a figure is approximate, rounded from kronor, or drawn from a leaked document rather than a court filing, we have said so on screen.
+
+136
+00:13:48,972 --> 00:13:51,469
+That is the Ericsson ledger, so far.
+
+137
+00:13:51,469 --> 00:13:59,674
+We will update it if the Justice Department's Iraq inquiry ever concludes, and once Per Narvinger has said what he thinks of Vonage.
+
+138
+00:13:59,674 --> 00:14:12,515
+If you found this useful, subscribing helps us make the next one, about a Stockholm company that was worth forty-six billion dollars, then six, then decided to become a bank anyway: Klarna, the buy-now-pay-later machine, audited.
+
+139
+00:14:12,515 --> 00:14:14,656
+Until then, thank you for watching.
+
